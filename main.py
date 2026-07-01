@@ -235,8 +235,8 @@ def main():
                 </div>
                 """
         
-        # 🔗 【修正完了】リンク先を「ドコモ」ダッシュボードに修正しました！
-        email_body += "<br><hr style='border:0; border-top:1px solid #eee;'><p style='font-size:14px; text-align:center; background:#f1f3f5; padding:15px; border-radius:8px;'>📊 過去の全営業ナレッジの爆速検索・ストックはこちら：<br><a href='https://taichi1010723.github.io/ドコモ/' style='color:#E60012; font-weight:bold; text-decoration:none;'>ドコモ営業レーダー・ダッシュボード</a></p></div>"
+        # 🔗 【URL完全修正】英語の「docomo」に直しました！
+        email_body += "<br><hr style='border:0; border-top:1px solid #eee;'><p style='font-size:14px; text-align:center; background:#f1f3f5; padding:15px; border-radius:8px;'>📊 過去の全営業ナレッジの爆速検索・ストックはこちら：<br><a href='https://taichi1010723.github.io/docomo/' style='color:#E60012; font-weight:bold; text-decoration:none;'>ドコモ営業レーダー・ダッシュボード</a></p></div>"
 
         send_gmail(f"{subject_title} ({today_str})", email_body, image_path)
             
