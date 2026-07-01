@@ -122,36 +122,36 @@ def main():
     client = genai.Client(api_key=api_key)
 
     prompt = f"""
-あなたはサイバーエージェント（CA）の、圧倒的な成果を出すドコモ担当の「伝説 of 広告営業（アカウントプランナー）」です。
-配属初日の新人が持ってきた以下の大量のニュースデータから、ドコモの営業・提案に【直結する最重要ニュース】を厳選し、営業戦略シートとして要約・分析してください。
+    あなたはサイバーエージェント（CA）の、圧倒的な成果を出すドコモ担当の「伝説 of 広告営業（アカウントプランナー）」です。
+    配属初日の新人が持ってきた以下の大量のニュースデータから、ドコモの営業・提案に【直結する最重要ニュース】を厳選し、営業戦略シートとして要約・分析してください。
 
-各ニュースの"summary"は、ただの要約ではなく、必ず以下の【3行の営業構成】で記述してください：
-1行目：【事実】何が起きたか
-2行目：【ドコモの狙い/課題】なぜそれが起きたか、またはドコモ（あるいは競合）の背景
-3行目：【★CAからの提案の切り口】「我が社なら、この動向に対して〇〇という広告手法やクリエイティブ（TikTok/YouTube等の縦型動画、ABEMA連携、dポイントデータを活かしたリテールメディアなど）でドコモに並走・提案できる」という、CAならではの具体的な営業アイデア・切り口
+    各ニュースの"summary"は、ただの要約ではなく、必ず以下の【3行の営業構成】で記述してください：
+    1行目：【事実】何が起きたか
+    2行目：【ドコモの狙い/課題】なぜそれが起きたか、またはドコモ（あるいは競合）の背景
+    3行目：【★CAからの提案の切り口】「我が社なら、この動向に対して〇〇という広告手法やクリエイティブ（TikTok/YouTube等の縦型動画、ABEMA連携、dポイントデータを活かしたリテールメディアなど）でドコモに並走・提案できる」という、CAならではの具体的な営業アイデア・切り口
 
-また、営業の観点での重要度を [S, A, B, C] の4段階で厳密に査定し、"importance"に格納してください。
-（S: ドコモの新サービス発表や予算大増額など今すぐ動くべき、A: 競合の新しい広告など次の定例で提案すべき、B: 業界トレンドなど雑談・フックネタ、C: 通常ニュース）
+    また、営業の観点での重要度を [S, A, B, C] の4段階で厳密に査定し、"importance"に格納してください。
+    （S: ドコモの新サービス発表や予算大増額など今すぐ動くべき、A: 競合の新しい広告など次の定例で提案すべき、B: 業界トレンドなど雑談・フックネタ、C: 通常ニュース）
 
-出力は、必ず以下の構造のJSON形式（リスト）のみにしてください。
+    出力は、必ず以下の構造のJSON形式（リスト）のみにしてください。
 
-[
-  {{
-    "category": "カテゴリ名",
-    "title": "分かりやすく営業向けに書き直したタイトル",
-    "url": "元のURL",
-    "importance": "S", 
-    "summary": [
-      "【事実】...",
-      "【ドコモの狙い/課題】...",
-      "【CAからの提案の切り口】..."
+    [
+      {{
+        "category": "カテゴリ名",
+        "title": "分かりやすく営業向けに書き直したタイトル",
+        "url": "元のURL",
+        "importance": "S", 
+        "summary": [
+          "【事実】...",
+          "【ドコモの狙い/課題】...",
+          "【CAからの提案の切り口】..."
+        ]
+      }}
     ]
-  }}
-]
 
-【ニュース元データ】
-{all_news_text}
-"""
+    【ニュース元データ】
+    {all_news_text}
+    """
 
     response = client.models.generate_content(model='gemini-2.5-flash', contents=prompt)
     
@@ -176,7 +176,7 @@ def main():
         for story in added_stories: history_data.insert(0, story)
         with open(history_file, "w", encoding="utf-8") as f: json.dump(history_data[:300], f, ensure_ascii=False, indent=2)
         
-        print(f"ドコモ関連の営業ナレッジを {len(added_stories)} 件蓄積しました。")
+        print(f"ドコモ関連 of 営業ナレッジを {len(added_stories)} 件蓄積しました。")
 
         # ⏰ 時間帯に応じた「メール件名」と「ペライチ内タイトル」の自動切り替え
         current_hour = jst_now.hour
@@ -235,7 +235,8 @@ def main():
                 </div>
                 """
         
-        email_body += "<br><hr style='border:0; border-top:1px solid #eee;'><p style='font-size:14px; text-align:center; background:#f1f3f5; padding:15px; border-radius:8px;'>📊 過去の全営業ナレッジの爆速検索・ストックはこちら：<br><a href='https://taichi1010723.github.io/my-news/' style='color:#E60012; font-weight:bold; text-decoration:none;'>ドコモ営業レーダー・ダッシュボード</a></p></div>"
+        # 🔗 【修正完了】リンク先を「ドコモ」ダッシュボードに修正しました！
+        email_body += "<br><hr style='border:0; border-top:1px solid #eee;'><p style='font-size:14px; text-align:center; background:#f1f3f5; padding:15px; border-radius:8px;'>📊 過去の全営業ナレッジの爆速検索・ストックはこちら：<br><a href='https://taichi1010723.github.io/ドコモ/' style='color:#E60012; font-weight:bold; text-decoration:none;'>ドコモ営業レーダー・ダッシュボード</a></p></div>"
 
         send_gmail(f"{subject_title} ({today_str})", email_body, image_path)
             
