@@ -121,7 +121,6 @@ def main():
     api_key = os.environ.get("GEMINI_API_KEY")
     client = genai.Client(api_key=api_key)
 
-    # 🧠 Geminiを「CAの天才ドコモ担当営業」にするプロンプト
     prompt = f"""
 あなたはサイバーエージェント（CA）の、圧倒的な成果を出すドコモ担当の「伝説 of 広告営業（アカウントプランナー）」です。
 配属初日の新人が持ってきた以下の大量のニュースデータから、ドコモの営業・提案に【直結する最重要ニュース】を厳選し、営業戦略シートとして要約・分析してください。
@@ -179,7 +178,6 @@ def main():
         
         print(f"ドコモ関連の営業ナレッジを {len(added_stories)} 件蓄積しました。")
 
-        # メール配信用設定
         current_hour = jst_now.hour
         if 5 <= current_hour <= 9:
             subject_title = "🌅【朝刊】ドコモ営業レーダー：今すぐ動くべき最重要インサイト"
@@ -190,15 +188,15 @@ def main():
         else:
             subject_title, image_path = "🌙【夜刊】今日の通信業界まとめ＆明日仕掛ける提案アイデア", None
 
-        email_body = f"<h2>{subject_title}</h2><p>分析完了時刻: {today_str}</p><hr>"
+        email_body = f"{subject_title}分析完了時刻: {today_str}"
         for story in new_stories:
             if story.get("importance") in ["S", "A", "B"]:
                 imp_emoji = "🚨 [S級:今すぐアポ]" if story['importance'] == "S" else "✨ [A級:定例提案]" if story['importance'] == "A" else "💡 [B級:提案の種]"
-                email_body += f"<div style='margin-bottom:20px;'><b>{imp_emoji} [{story['category']}] {story['title']}</b><br>"
-                email_body += "<ul style='color:#444;'>" + "".join([f"<li>{s}</li>" for s in story['summary']]) + "</ul>"
-                email_body += f"<a href='{story['url']}' style='color:#00f2fe; text-decoration:none;'>👉 記事元を確認する</a></div>"
+                email_body += f"{imp_emoji} [{story['category']}] {story['title']}"
+                email_body += "" + "".join([f"{s}" for s in story['summary']]) + ""
+                email_body += f"👉 記事元を確認する"
         
-        email_body += "<br><hr><p>📊 過去のドコモ営業ナレッジのストックはこちらから：<br><a href='https://taichi1010723.github.io/my-news/'>ドコモ営業レーダー・ダッシュボード</a></p>"
+        email_body += "📊 過去のドコモ営業ナレッジのストックはこちらから：ドコモ営業レーダー・ダッシュボード"
 
         send_gmail(f"{subject_title} ({today_str})", email_body, image_path)
             
