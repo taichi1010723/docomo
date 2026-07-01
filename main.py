@@ -31,7 +31,7 @@ def fetch_news(query):
         feed = feedparser.parse(url)
     return [{"title": entry.title, "link": entry.link} for entry in feed.entries[:15]]
 
-def create_summary_image(stories, output_path):
+def create_summary_image(stories, output_path, title_text):
     """ニュースを1枚のペライチ画像(JPEG)にまとめる関数"""
     img = Image.new('RGB', (800, 1000), color='#1e1e2e')
     draw = ImageDraw.Draw(img)
@@ -51,15 +51,15 @@ def create_summary_image(stories, output_path):
     if os.path.exists(font_path):
         try:
             font_main = ImageFont.truetype(font_path, 18)
-            font_title = ImageFont.truetype(font_path, 28)
+            font_title = ImageFont.truetype(font_path, 26)
         except: pass
 
     if not font_main:
         font_main = ImageFont.load_default()
         font_title = ImageFont.load_default()
 
-    yesterday = (datetime.now() + timedelta(hours=9) - timedelta(days=1)).strftime("%Y-%m-%d")
-    draw.text((40, 40), f"DOCOMO SALES RADAR ({yesterday})", fill='#ff79c6', font=font_title)
+    # 朝昼夜に合わせたカスタムタイトルを描画
+    draw.text((40, 40), title_text, fill='#ff79c6', font=font_title)
     draw.line([(40, 90), (760, 90)], fill='#6272a4', width=2)
     
     important_stories = [s for s in stories if s.get("importance") in ["S", "A"]][:6]
@@ -76,9 +76,9 @@ def create_summary_image(stories, output_path):
         draw.text((58, y_offset + 18), badge_text, fill='#1e1e2e', font=font_main)
         draw.text((155, y_offset + 18), f"[{story['category']}]", fill='#8be9fd', font=font_main)
         
-        title_text = story['title']
-        if len(title_text) > 32: title_text = title_text[:32] + "..."
-        draw.text((50, y_offset + 55), f"{idx}. {title_text}", fill='#f8f8f2', font=font_main)
+        title_text_card = story['title']
+        if len(title_text_card) > 32: title_text_card = title_text_card[:32] + "..."
+        draw.text((50, y_offset + 55), f"{idx}. {title_text_card}", fill='#f8f8f2', font=font_main)
         
         sum_text = story['summary'][0] if story['summary'] else ""
         if len(sum_text) > 38: sum_text = sum_text[:38] + "..."
@@ -178,25 +178,64 @@ def main():
         
         print(f"ドコモ関連の営業ナレッジを {len(added_stories)} 件蓄積しました。")
 
+        # ⏰ 時間帯に応じた「メール件名」と「ペライチ内タイトル」の自動切り替え
         current_hour = jst_now.hour
         if 5 <= current_hour <= 9:
             subject_title = "🌅【朝刊】ドコモ営業レーダー：今すぐ動くべき最重要インサイト"
-            image_path = "daily_digest.jpg"
-            create_summary_image(new_stories, image_path)
+            img_title = f"DOCOMO RADAR [MORNING] ({jst_now.strftime('%m/%d')})"
         elif 11 <= current_hour <= 14:
-            subject_title, image_path = "☀️【昼刊】ドコモ＆競合キャリア最新動向速報", None
+            subject_title = "☀️【昼刊】ドコモ＆競合キャリア最新動向速報"
+            img_title = f"DOCOMO RADAR [LUNCH] ({jst_now.strftime('%m/%d')})"
         else:
-            subject_title, image_path = "🌙【夜刊】今日の通信業界まとめ＆明日仕掛ける提案アイデア", None
+            subject_title = "🌙【夜刊】今日の通信業界まとめ＆明日仕掛ける提案アイデア"
+            img_title = f"DOCOMO RADAR [NIGHT] ({jst_now.strftime('%m/%d')})"
 
-        email_body = f"{subject_title}分析完了時刻: {today_str}"
+        # 📸 朝・昼・夜いつでもペライチ画像を生成して添付
+        image_path = "daily_digest.jpg"
+        create_summary_image(new_stories, image_path, img_title)
+
+        # 💌 スマホで爆速インプットできるプレミアムHTMLメールデザイン
+        email_body = f"""
+        <div style="font-family: 'Helvetica Neue', Arial, sans-serif; max-width: 600px; margin: 0 auto; padding: 10px; color: #333;">
+            <h2 style="color: #E60012; border-bottom: 3px solid #E60012; padding-bottom: 10px; margin-bottom: 5px;">{subject_title}</h2>
+            <p style="color: #666; font-size: 13px; margin-top: 0;">📊 分析完了時刻: {today_str}</p>
+            <p style="font-size: 14px; line-height: 1.5; color: #555;">最新のドコモ動向と、AIが弾き出した営業提案の切り口です。詳細は添付のペライチ画像、または最下部のダッシュボードからも確認できます。</p>
+            <hr style="border: 0; border-top: 1px solid #eee; margin: 20px 0;">
+        """
+        
         for story in new_stories:
             if story.get("importance") in ["S", "A", "B"]:
-                imp_emoji = "🚨 [S級:今すぐアポ]" if story['importance'] == "S" else "✨ [A級:定例提案]" if story['importance'] == "A" else "💡 [B級:提案の種]"
-                email_body += f"{imp_emoji} [{story['category']}] {story['title']}"
-                email_body += "" + "".join([f"{s}" for s in story['summary']]) + ""
-                email_body += f"👉 記事元を確認する"
+                imp = story['importance']
+                if imp == "S":
+                    imp_emoji = "🚨 [S級: 今すぐアポ電]"
+                    border_color = "#E60012" # ドコモレッド
+                elif imp == "A":
+                    imp_emoji = "✨ [A級: 定例で提案]"
+                    border_color = "#fd7e14" # オレンジ
+                else:
+                    imp_emoji = "💡 [B級: 提案の種]"
+                    border_color = "#0dcaf0" # スカイブルー
+                
+                email_body += f"""
+                <div style="background-color: #f8f9fa; border-left: 5px solid {border_color}; padding: 18px; margin-bottom: 22px; border-radius: 0 8px 8px 0; box-shadow: 0 2px 5px rgba(0,0,0,0.03);">
+                    <div style="font-size: 12px; font-weight: bold; color: #777; margin-bottom: 6px;">{imp_emoji} ｜ {story['category']}</div>
+                    <div style="font-size: 16px; font-weight: bold; color: #111; margin-bottom: 12px; line-height: 1.4;">{story['title']}</div>
+                    <div style="font-size: 14px; line-height: 1.6;">
+                """
+                
+                for s in story['summary']:
+                    formatted_s = s.replace("【事実】", "📌 <b>事実：</b>").replace("【ドコモの狙い/課題】", "🎯 <b>ドコモの狙い/課題：</b>").replace("【★CAからの提案の切り口】", "🔥 <b>CAからの提案の切り口：</b>").replace("【CAからの提案の切り口】", "🔥 <b>CAからの提案の切り口：</b>")
+                    email_body += f"<div style='margin-bottom: 8px; color: #444;'>{formatted_s}</div>"
+                    
+                email_body += f"""
+                    </div>
+                    <div style="margin-top: 14px; text-align: right;">
+                        <a href="{story['url']}" target="_blank" style="color: #E60012; text-decoration: none; font-size: 13px; font-weight: bold;">👉 記事元ソースを確認する &raquo;</a>
+                    </div>
+                </div>
+                """
         
-        email_body += "📊 過去のドコモ営業ナレッジのストックはこちらから：ドコモ営業レーダー・ダッシュボード"
+        email_body += "<br><hr style='border:0; border-top:1px solid #eee;'><p style='font-size:14px; text-align:center; background:#f1f3f5; padding:15px; border-radius:8px;'>📊 過去の全営業ナレッジの爆速検索・ストックはこちら：<br><a href='https://taichi1010723.github.io/my-news/' style='color:#E60012; font-weight:bold; text-decoration:none;'>ドコモ営業レーダー・ダッシュボード</a></p></div>"
 
         send_gmail(f"{subject_title} ({today_str})", email_body, image_path)
             
