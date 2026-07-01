@@ -179,4 +179,31 @@ def main():
         
         print(f"ドコモ関連の営業ナレッジを {len(added_stories)} 件蓄積しました。")
 
-        #
+        # メール配信用設定
+        current_hour = jst_now.hour
+        if 5 <= current_hour <= 9:
+            subject_title = "🌅【朝刊】ドコモ営業レーダー：今すぐ動くべき最重要インサイト"
+            image_path = "daily_digest.jpg"
+            create_summary_image(new_stories, image_path)
+        elif 11 <= current_hour <= 14:
+            subject_title, image_path = "☀️【昼刊】ドコモ＆競合キャリア最新動向速報", None
+        else:
+            subject_title, image_path = "🌙【夜刊】今日の通信業界まとめ＆明日仕掛ける提案アイデア", None
+
+        email_body = f"<h2>{subject_title}</h2><p>分析完了時刻: {today_str}</p><hr>"
+        for story in new_stories:
+            if story.get("importance") in ["S", "A", "B"]:
+                imp_emoji = "🚨 [S級:今すぐアポ]" if story['importance'] == "S" else "✨ [A級:定例提案]" if story['importance'] == "A" else "💡 [B級:提案の種]"
+                email_body += f"<div style='margin-bottom:20px;'><b>{imp_emoji} [{story['category']}] {story['title']}</b><br>"
+                email_body += "<ul style='color:#444;'>" + "".join([f"<li>{s}</li>" for s in story['summary']]) + "</ul>"
+                email_body += f"<a href='{story['url']}' style='color:#00f2fe; text-decoration:none;'>👉 記事元を確認する</a></div>"
+        
+        email_body += "<br><hr><p>📊 過去のドコモ営業ナレッジのストックはこちらから：<br><a href='https://taichi1010723.github.io/my-news/'>ドコモ営業レーダー・ダッシュボード</a></p>"
+
+        send_gmail(f"{subject_title} ({today_str})", email_body, image_path)
+            
+    except Exception as e:
+        print("エラー発生:", e)
+
+if __name__ == "__main__":
+    main()
