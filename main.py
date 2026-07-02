@@ -12,10 +12,10 @@ from email.mime.image import MIMEImage
 from google import genai
 from PIL import Image, ImageDraw, ImageFont
 
-# 💡 クライアント「ドコモ」とその経済圏・競合を網羅する最強の営業クエリ
+# 💡 クライアント「ドコモ」の通信・エンタメ・金融・ライフスタイル全プロダクトを網羅する最強クエリ
 CATEGORIES = {
-    "ドコモ最速動向": "NTTドコモ docomo ahamo irumo eximo 新サービス 決算",
-    "ドコモ経済圏・スマートライフ": "d払い dポイント dカード ポイ活 リテールメディア ドコモ",
+    "ドコモ最速動向": "NTTドコモ docomo ahamo irumo eximo 新サービス 決算 法人ソリューション",
+    "ドコモ経済圏・スマートライフ": "d払い dポイント dカード Lemino dアニメストア dマガジン dヘルスケア MetaMe ポイ活 リテールメディア",
     "通信キャリア競合動向": "KDDI au ソフトバンク SoftBank 楽天モバイル 広告 マーケティング",
     "PR TIMES（最速新着）": "https://prtimes.jp/main/html/rd/index.xml",
     "SNS・縦型動画トレンド": "TikTokプロモーション ショート動画 バズ マーケティング 縦型動画",
@@ -26,7 +26,9 @@ def fetch_news(query):
     if query.startswith("http"):
         feed = feedparser.parse(query)
     else:
-        encoded_query = urllib.parse.quote(query)
+        # 💡 過去3日以内の超新鮮な情報だけに絞り込む
+        fresh_query = f"{query} when:3d"
+        encoded_query = urllib.parse.quote(fresh_query)
         url = f"https://news.google.com/rss/search?q={encoded_query}&hl=ja&gl=JP&ceid=JP:ja"
         feed = feedparser.parse(url)
     return [{"title": entry.title, "link": entry.link} for entry in feed.entries[:15]]
@@ -58,7 +60,6 @@ def create_summary_image(stories, output_path, title_text):
         font_main = ImageFont.load_default()
         font_title = ImageFont.load_default()
 
-    # 朝昼夜に合わせたカスタムタイトルを描画
     draw.text((40, 40), title_text, fill='#ff79c6', font=font_title)
     draw.line([(40, 90), (760, 90)], fill='#6272a4', width=2)
     
@@ -123,7 +124,7 @@ def main():
 
     prompt = f"""
     あなたはサイバーエージェント（CA）の、圧倒的な成果を出すドコモ担当の「伝説 of 広告営業（アカウントプランナー）」です。
-    配属初日の新人が持ってきた以下の大量のニュースデータから、ドコモの営業・提案に【直結する最重要ニュース】を厳選し、営業戦略シートとして要約・分析してください。
+    配属初日の新人が持ってきた以下の大量のニュースデータから、ドコモの営業・提案に【直結する最重要ニュース】（通信だけでなく、Leminoやd払い、メタバースなどの各種スマートライフ・個別プロダクトの動きも含む）を厳選し、営業戦略シートとして要約・分析してください。
 
     各ニュースの"summary"は、ただの要約ではなく、必ず以下の【3行の営業構成】で記述してください：
     1行目：【事実】何が起きたか
@@ -178,7 +179,6 @@ def main():
         
         print(f"ドコモ関連 of 営業ナレッジを {len(added_stories)} 件蓄積しました。")
 
-        # ⏰ 時間帯に応じた「メール件名」と「ペライチ内タイトル」の自動切り替え
         current_hour = jst_now.hour
         if 5 <= current_hour <= 9:
             subject_title = "🌅【朝刊】ドコモ営業レーダー：今すぐ動くべき最重要インサイト"
@@ -190,11 +190,9 @@ def main():
             subject_title = "🌙【夜刊】今日の通信業界まとめ＆明日仕掛ける提案アイデア"
             img_title = f"DOCOMO RADAR [NIGHT] ({jst_now.strftime('%m/%d')})"
 
-        # 📸 朝・昼・夜いつでもペライチ画像を生成して添付
         image_path = "daily_digest.jpg"
         create_summary_image(new_stories, image_path, img_title)
 
-        # 💌 スマホで爆速インプットできるプレミアムHTMLメールデザイン
         email_body = f"""
         <div style="font-family: 'Helvetica Neue', Arial, sans-serif; max-width: 600px; margin: 0 auto; padding: 10px; color: #333;">
             <h2 style="color: #E60012; border-bottom: 3px solid #E60012; padding-bottom: 10px; margin-bottom: 5px;">{subject_title}</h2>
@@ -208,13 +206,13 @@ def main():
                 imp = story['importance']
                 if imp == "S":
                     imp_emoji = "🚨 [S級: 今すぐアポ電]"
-                    border_color = "#E60012" # ドコモレッド
+                    border_color = "#E60012"
                 elif imp == "A":
                     imp_emoji = "✨ [A級: 定例で提案]"
-                    border_color = "#fd7e14" # オレンジ
+                    border_color = "#fd7e14"
                 else:
                     imp_emoji = "💡 [B級: 提案の種]"
-                    border_color = "#0dcaf0" # スカイブルー
+                    border_color = "#0dcaf0"
                 
                 email_body += f"""
                 <div style="background-color: #f8f9fa; border-left: 5px solid {border_color}; padding: 18px; margin-bottom: 22px; border-radius: 0 8px 8px 0; box-shadow: 0 2px 5px rgba(0,0,0,0.03);">
@@ -235,7 +233,6 @@ def main():
                 </div>
                 """
         
-        # 🔗 【URL完全修正】英語の「docomo」に直しました！
         email_body += "<br><hr style='border:0; border-top:1px solid #eee;'><p style='font-size:14px; text-align:center; background:#f1f3f5; padding:15px; border-radius:8px;'>📊 過去の全営業ナレッジの爆速検索・ストックはこちら：<br><a href='https://taichi1010723.github.io/docomo/' style='color:#E60012; font-weight:bold; text-decoration:none;'>ドコモ営業レーダー・ダッシュボード</a></p></div>"
 
         send_gmail(f"{subject_title} ({today_str})", email_body, image_path)
