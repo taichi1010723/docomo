@@ -1,6 +1,19 @@
 [
   {
     "category": "次世代マーケ・AI活用",
+    "title": "AIが広告配信セグメントを自動生成！ドコモのデータ活用・広告運用効率化へのインパクト",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5fM2JBemZiMDZhS29SbEx6SVMxNU80Y2JYWV96S2pMNEM3cG44RmdtSWlNRUxsQmhtUHFMTElQRC1RTUh3Ui0tb3NjaEhQWGRjbUVrSWlFbjFFT0k0azZiMm4xdVdNQU9YMEE?oc=5",
+    "importance": "A",
+    "summary": [
+      "【事実】GumGumが、AIを活用してキャンペーンブリーフから最適な広告配信セグメントを自動生成する新サービス「Mindset Agent」を提供開始。The Trade Deskがローンチパートナー。",
+      "【ドコモの狙い/課題】ドコモが持つ膨大なdポイントデータや契約者データを、d払い、Lemino、各種スマートライフサービスなどの広告配信に活用する際、ターゲット選定の精度向上と運用効率化は常に重要課題。AIによる自動生成は、広告効果の最大化と人的リソースの最適化に直結するため、競合に先んじた導入・検証が求められる。",
+      "【★CAからの提案の切り口】CAが培ってきたAIを活用した広告運用知見と、ドコモのdポイントデータを掛け合わせ、この「Mindset Agent」のようなソリューションの導入効果を最大化する戦略を提案。具体的には、CA独自のAIターゲティングモデル構築やABEMA連携によるデータ活用、さらにはリテールメディアへの応用も視野に入れ、ドコモの広告運用DXを全面的に支援。"
+    ],
+    "date": "2026-07-20 00:33",
+    "id": "dVdNQU9YMEE%3Foc%3D5"
+  },
+  {
+    "category": "次世代マーケ・AI活用",
     "title": "ドコモの1stパーティデータをAIで最適化！広告配信セグメント自動生成ツールの導入提案",
     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5fM2JBemZiMDZhS29SbEx6SVMxNU80Y2JYWV95ZktqMNpDMnBuOEdtSWlNRUxsQmhtUHFMTElQRC1RTUh3Ui0tb3NjaEhQWGRjbUVrSWlFbjFFT0k0azZiMm4xdVdNQU9YMEE?oc=5",
     "importance": "S",
