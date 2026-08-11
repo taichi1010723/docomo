@@ -1,5 +1,18 @@
 [
   {
+    "category": "カテゴリ名",
+    "title": "分かりやすく営業向けに書き直したタイトル",
+    "url": "元のURL",
+    "importance": "S",
+    "summary": [
+      "【事実】...",
+      "【ドコモの狙い/課題】...",
+      "【★CAからの提案の切り口】..."
+    ],
+    "date": "2026-08-12 07:28",
+    "id": "E5%85%83%E3%81%AEURL"
+  },
+  {
     "category": "競合動向",
     "title": "KDDI「au経済圏」強化の動き！ドコモ経済圏防衛・拡大に向けた広告戦略をCAが再構築する",
     "url": "https://k-tai.sharp.co.jp/sns/au/aupay/",
