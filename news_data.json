@@ -1,5 +1,70 @@
 [
   {
+    "category": "競合動向",
+    "title": "【Aランク】KDDI、auとUQ mobile連携を強化した新プラン・販促キャンペーン発表",
+    "url": "https://example.com/kddi_au_uq_campaign_news",
+    "importance": "A",
+    "summary": [
+      "【事実】KDDIが、auとUQ mobileの連携をさらに強化し、家族割やセット割を拡大した新プランと、ドコモ顧客層を明確にターゲットとした乗り換えキャンペーンを発表しました。",
+      "【ドコモの狙い/課題】競合の攻勢に対し、ドコモは自社の顧客基盤（eximo, irumo, ahamo）をいかに維持・強化するかが喫緊の課題です。特に、料金メリットを打ち出したキャンペーンで流出するユーザーを食い止め、自社の多層戦略の優位性を明確に訴求する必要があります。",
+      "【★CAからの提案の切り口】CAのデータ分析力で、競合キャンペーンに反応する可能性のあるユーザー層を特定し、dポイントの利用促進やLeminoの無料期間提供などのインセンティブを付与するターゲット広告を提案します。TikTok/YouTube等の縦型動画で「ドコモを選ぶ理由（安定した通信品質、手厚いサポート、dポイント経済圏の魅力など）」を分かりやすく訴求するクリエイティブを制作し、流出阻止と新規獲得を両面からサポートします。"
+    ],
+    "date": "2026-08-14 13:41",
+    "id": "_au_uq_campaign_news"
+  },
+  {
+    "category": "XR・メタバース事業",
+    "title": "【Bランク】ドコモ、XR事業を強化する新子会社設立を発表。法人向けソリューションにも注力",
+    "url": "https://example.com/docomo_xr_subsidiary_launch",
+    "importance": "B",
+    "summary": [
+      "【事実】NTTドコモがXR事業を専門とする新子会社を設立し、個人向けエンタメコンテンツに加え、法人向けバーチャルオフィスや研修ソリューションにも本格的に参入することを発表しました。",
+      "【ドコモの狙い/課題】次世代の通信技術（5G/6G）を見据え、新たな収益の柱としてXR/メタバース市場でのリーダーシップ確立を目指す狙いです。特に、法人向けソリューションでは、初期導入コストや利用ハードルの高さが課題であり、具体的なユースケースの提示と普及啓発が求められます。",
+      "【★CAからの提案の切り口】法人向けのメタバースソリューション導入事例を訴求するWebセミナー（ABEMAウェビナー連携も含む）の企画・集客支援を行います。また、具体的な課題解決に繋がるデモンストレーション動画（YouTube/LinkedIn向けの縦型解説動画）を制作し、導入企業の成功事例をストーリーテリングで伝えるクリエイティブ提案で、企業担当者の不安を解消し導入促進を支援します。"
+    ],
+    "date": "2026-08-14 13:41",
+    "id": "xr_subsidiary_launch"
+  },
+  {
+    "category": "エンタメ・コンテンツ事業",
+    "title": "【Aランク】Lemino、独占オリジナルコンテンツで若年層・女性層の新規会員獲得に成功！",
+    "url": "https://example.com/lemino_original_content_success_story",
+    "importance": "A",
+    "summary": [
+      "【事実】Leminoが人気クリエイターやアイドルグループと協業した独占オリジナルコンテンツを投入し、特に若年層と女性層を中心に新規会員登録数が大幅に増加しました。",
+      "【ドコモの狙い/課題】VOD市場での存在感を高め、通信事業とのシナジーを創出することが狙いです。特に、ターゲット層の心を掴む質の高いコンテンツを継続的に供給し、プラットフォームの魅力とブランド価値を高めることが課題であり、継続的な会員定着と有料会員への転換が求められます。",
+      "【★CAからの提案の切り口】若年層・女性層にリーチ力の高いTikTok/Instagramリールなどの縦型動画広告を軸に、コンテンツの世界観を再現したUGC風クリエイティブを量産します。さらに、ABEMAでコンテンツ連動型広告を展開し、Leminoで独占配信されるドラマやバラエティの魅力を最大化するプロモーションを提案。インフルエンサーマーケティングも組み合わせ、ソーシャルバズを創出します。"
+    ],
+    "date": "2026-08-14 13:41",
+    "id": "ontent_success_story"
+  },
+  {
+    "category": "スマートライフ事業",
+    "title": "【Aランク】d払い、加盟店数が過去最高を更新！地域活性化キャンペーンで更なる拡大目指す",
+    "url": "https://example.com/d払い_store_expansion_campaign_news",
+    "importance": "A",
+    "summary": [
+      "【事実】d払いアプリの加盟店数が〇〇万店を突破し、全国各地で大規模なポイント還元・地域経済活性化キャンペーンを展開すると発表されました。",
+      "【ドコモの狙い/課題】決済・ポイント経済圏における覇権を盤石にし、ユーザーの日常利用をさらに促進することで、dポイント経済圏全体のLTV（顧客生涯価値）向上を図る狙いです。特に競合（PayPayなど）との差別化として、地域密着型の取り組みを強化し、ユーザーエンゲージメントを高めたい背景があります。",
+      "【★CAからの提案の切り口】dポイントデータを活用したジオターゲティング広告（d払い加盟店周辺に絞ったプロモーション）、エリア限定のCA独自のクリエイティブ制作（地域特産品や観光地と連携した縦型動画広告）を提案。さらに、ABEMAと連携したキャンペーン告知や、d払いアプリ内でのリテールメディア枠を強化し、加盟店への送客を最大化する戦略を構築できます。"
+    ],
+    "date": "2026-08-14 13:41",
+    "id": "ansion_campaign_news"
+  },
+  {
+    "category": "通信事業",
+    "title": "【Sランク】ドコモ新料金プラン『eximo』『irumo』発表！多層戦略で顧客基盤を盤石に",
+    "url": "https://example.com/docomo_new_plan_eximo_irumo_release",
+    "importance": "S",
+    "summary": [
+      "【事実】NTTドコモが新料金プラン「eximo」と「irumo」を発表し、ahamoを含めた3ブランド体制を構築しました。",
+      "【ドコモの狙い/課題】多様化するユーザーニーズに対応し、幅広い顧客層を取り込むことで、解約率の低減とARPU（ユーザー一人あたりの平均売上）向上を図る狙いです。特に、高容量帯の「eximo」でプレミアムユーザーを維持しつつ、低容量帯の「irumo」でMVNOからの流入を狙うことで、顧客基盤の厚みを増したいという背景があります。",
+      "【★CAからの提案の切り口】「eximo」ユーザーにはデータ容量を最大限活用するリッチコンテンツ広告（YouTube/ABEMAのスキップ不可動画、ライブ配信連携など）、「irumo」ユーザーにはコスト効率を重視した認知度向上型・ダウンロード促進型（TikTok等の縦型動画クリエイティブ、インストリーム広告）など、プランごとのターゲット属性に合わせた精緻な広告配信戦略を提案します。また、dポイントデータを活用し、既存ユーザーへのアップセル・クロスセル施策も強化できます。"
+    ],
+    "date": "2026-08-14 13:41",
+    "id": "_eximo_irumo_release"
+  },
+  {
     "category": "CA関連・業界トレンド",
     "title": "ABEMAがアニメ・ドラマジャンルで若年層視聴者数増加！オリジナルコンテンツが牽引",
     "url": "https://example.com/news/abema-youth-audience",
@@ -3833,70 +3898,5 @@
     ],
     "date": "2026-07-01 18:26",
     "id": "XS1ZBbDVGQQ%3Foc%3D5"
-  },
-  {
-    "category": "ドコモ最速動向",
-    "title": "端末値引き上限4万円後の販促戦略：CAによるサービス連携提案",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1fajZ5UFcxYzQzcXdPWHN5SjdzSG1uNXE5XzB1cG9tSkkzbDlJUENTekgzdjVwYlA5bFVRSzF6TDRjaElNSi1QcHJEVG1ZZFZfWmU1OWt0cUZWamZTRE1xNk5qN3gxVDJxX0JCZEJfMNIBaEFVX3lxTFBLeUxzZ0JialNBdGdndXFfU3pSVHFDRzVHSU8zNlhteENsMVJVQ1FJcTdRMUlyY2VaQXB5aGlVb3V1ckpJOS1zcWpiMklSb1VrSjhGd04wczZIalpDdEJzSFUxMXNOdDNH?oc=5",
-    "importance": "B",
-    "summary": [
-      "【事実】端末値引き上限が4万円に設定された後、ドコモの井伊社長は「納得感がある」とコメントし、公正な競争環境を強調している。",
-      "【ドコモの狙い/課題】端末販売の透明性とユーザーの納得感を確保しつつ、高額端末の販売数を維持したい。端末単体ではなく、ドコモの提供するサービスとの連携を強化することで、付加価値を訴求する必要がある。",
-      "【★CAからの提案の切り口】「端末値引き上限変更後のユーザー購買動向をCAのデータ分析力で徹底解析し、新しい端末購入体験を促進する広告戦略を提案します。特に、端末とドコモのAIサービス、ABEMAプレミアムなどのエンタメサブスクリプションサービスをセットにした価値提案を、TikTok/YouTube等の縦型動画で魅力的に訴求することで、端末販売の活性化を支援できます。」"
-    ],
-    "date": "2026-07-01 18:26",
-    "id": "FUxMXNOdDNH%3Foc%3D5"
-  },
-  {
-    "category": "ドコモ最速動向",
-    "title": "「使い放題」選ぶ消費者心理とドコモMAX（eximo）の新しい競争軸へのCA戦略",
-    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1NX2lteEVXQ3Jac0pld2xvZXZBdDg5S1JYeEVWdjliVFhfYmZWUUxxMDBCczh3UjlESm1uUEo1T2lacDZ2YXN2N3BYVGwtOEJ5?oc=5",
-    "importance": "A",
-    "summary": [
-      "【事実】消費者の携帯料金プラン選びに異変が生じ、あえて高額の“使い放題”プランを選ぶ傾向が見られ、ドコモMAX（eximo）が新しい競争軸を切り開いている。",
-      "【ドコモの狙い/課題】データ利用量の多いユーザー層のニーズを確実に捉え、高単価プランへの誘導と顧客満足度向上を図りたい。使い放題プランの単なる容量だけでなく、付加価値や体験をどう訴求するかが重要。",
-      "【★CAからの提案の切り口】「使い放題プランの『MAX』層に対し、データ容量を気にせず楽しめるABEMAプレミアム連携プロモーション、高画質動画配信サービスとのタイアップ、ゲーム連携など、リッチコンテンツ体験を前面に出した広告戦略を提案します。特に若年層向けには、TikTok/YouTube縦型動画で『ギガを気にしない自由なライフスタイル』を訴求するクリエイティブで獲得を強化できます。」"
-    ],
-    "date": "2026-07-01 18:26",
-    "id": "3BYVGwtOEJ5%3Foc%3D5"
-  },
-  {
-    "category": "ドコモ経済圏・スマートライフ",
-    "title": "dポイントマーケット最大20%還元！CAによるEC集客支援とタイアップ広告の機会",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE96ZWNtd2NKOGNTLTdFRVNLZHVzeTNDaW0tMWVhaXBaZEc1OHpQMjgwRExYSkR5SDFMUzZyNjdWVlYtRUdBckhqRFd6Nkw3NGVqdUlmb3NNU0M2QjA?oc=5",
-    "importance": "A",
-    "summary": [
-      "【事実】NTTドコモが提供するECサービス「dポイントマーケット」で、最大20％の高還元キャンペーンを実施している。",
-      "【ドコモの狙い/課題】dポイントマーケットの利用者を増やし、EC事業の強化を図りたい。高還元率をフックに、ユーザーを経済圏内のECサイトへ誘導し、消費を促すことが狙い。",
-      "【★CAからの提案の切り口】「dポイントマーケットの集客プロモーションにおいて、CAのEC広告運用ノウハウを最大限に活用できます。高還元率をフックにした、特定の商材やメーカーとのタイアップ広告企画・運用、そして効果的なデジタル広告配信で、ドコモ様のEC事業拡大に貢献します。」"
-    ],
-    "date": "2026-07-01 18:26",
-    "id": "b3NNU0M2QjA%3Foc%3D5"
-  },
-  {
-    "category": "通信キャリア競合動向",
-    "title": "【要注目】競合他社比較で際立つ「ahamo」戦略の巧妙さとCAによる差別化訴求",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5SUER3VExjMUMtSURmM0ZvT1BZbWQ5dVg2cThFUFIyeVh1dVVNZFVjb2xUQXpKQ2JtR0p3d1FOTzcxVE1Ha0pvUGkwTUNud21TSU1HZXNvLWRQMVZoNGpWS1dELUlkODRjR1R4cWZxRQ?oc=5",
-    "importance": "A",
-    "summary": [
-      "【事実】KDDIなど競合他社の低価格プランと比較される中で、NTTドコモの「ahamo」が既存料金の見直しを含めた巧妙な戦略を展開していると分析されている。",
-      "【ドコモの狙い/課題】低価格帯市場におけるahamoの競争優位性を維持・強化し、既存ユーザーの流出防止と新たな顧客層の獲得を図りたい。価格だけでなく、ドコモ品質や経済圏連携といったahamoの総合的な価値を効果的に訴求する必要がある。",
-      "【★CAからの提案の切り口】「ahamoの真の価値（例：ドコモの通信品質、dポイント連携、海外ローミングの利便性など）を、競合との比較優位性として明確に打ち出す広告戦略を提案します。特に若年層向けのTikTok/YouTube縦型動画で、価格だけではない『選ばれる理由』を共感性高く訴求。ABEMAとの連携で、ahamoユーザー向けの限定コンテンツや特典を提供し、ブランドロイヤルティを強化する施策も展開できます。」"
-    ],
-    "date": "2026-07-01 18:26",
-    "id": "jR1R4cWZxRQ%3Foc%3D5"
-  },
-  {
-    "category": "ドコモ最速動向",
-    "title": "【要注目】「AIサービスセット割」に見るドコモのAI戦略とCAの共同推進可能性",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9LaU8yTTZfb0xBajRXVlczelhNeWkyVFNpY1plckdnU1FOZXk2RTltbmlaMGlZNFpRa3dHWXlUWFdNRmtHMlROZGhhZkxWMWp5NGx5TFVuSWN1Y2xIT1llVG9MZmJxOVdhbFk4VGhSd3dJQdIBa0FVX3lxTE9wa05seWdqT0tYTEJYMkZQNUxLbEdlaUNKalJwOC1HcXBGQ0t5eU5PS0oxcE5rVTB3WmdJVTN3dWh4QnNXUUVmazg5VzNaWXRqaXQyaEQwbFpUX3RDNUVKaUJNNlQ4bERfR2ZR?oc=5",
-    "importance": "A",
-    "summary": [
-      "【事実】ドコモがAIサービスとのセット割を提供し、eximoやahamoが割引対象となる一方、irumoは対象外とされている。",
-      "【ドコモの狙い/課題】AIサービスを付加価値として、高単価プラン（eximo, ahamo）の魅力を向上させ、ユーザー体験の差別化を図りたい。AIサービス利用者層の囲い込みと、サービス利用促進が狙い。",
-      "【★CAからの提案の切り口】「AI活用を事業戦略の核とする我が社は、ドコモ様のAI戦略に深く貢献できます。AIサービスと連携した広告クリエイティブの共同開発、AIサービス利用者の利用促進キャンペーンにおけるデジタル広告運用、そしてAI活用によるパーソナライズ広告の共同研究提案など、多角的な側面からドコモ様のAI戦略を強力に支援します。」"
-    ],
-    "date": "2026-07-01 18:26",
-    "id": "lQ4bERfR2ZR%3Foc%3D5"
   }
 ]
