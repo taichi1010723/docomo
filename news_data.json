@@ -1,5 +1,83 @@
 [
   {
+    "category": "スマートライフ/ヘルスケア",
+    "title": "ドコモ・ヘルスケア、AIを活用した「特定保健指導」のオンラインサービスを開始し法人向け市場へ参入",
+    "url": "https://example.com/docomo-healthcare-ai-service",
+    "importance": "B",
+    "summary": [
+      "【事実】ドコモ・ヘルスケアが、AIによるパーソナライズされた特定保健指導をオンラインで提供するサービスを開始。企業や健康保険組合への導入を目指します。",
+      "【ドコモの狙い/課題】法人向けサービス市場での新たな収益源確保と、ICTを活用した社会課題解決への貢献が狙いです。しかし、サービスの認知度向上と、導入を検討する企業・健康保険組合への具体的なメリット訴求、リード獲得が課題となります。",
+      "【★CAからの提案の切り口】企業の人事担当者や健康保険組合のキーパーソンをターゲットにしたBtoBマーケティングを提案。専門メディアへの記事広告出稿や、LinkedInを活用したターゲティング広告でサービスの有効性を訴求。導入事例をまとめたホワイトペーパー制作と、効果測定を徹底したリード獲得施策を展開します。"
+    ],
+    "date": "2026-08-14 21:33",
+    "id": "ealthcare-ai-service"
+  },
+  {
+    "category": "通信/料金プラン",
+    "title": "楽天モバイル、「最強プラン」の料金据え置きと提携店舗拡大で低価格帯の顧客獲得を狙う",
+    "url": "https://example.com/rakuten-saikyo-plan",
+    "importance": "A",
+    "summary": [
+      "【事実】楽天モバイルがデータ無制限の「最強プラン」の料金を維持しつつ、提携店舗でのポイント優遇を拡大。低価格とポイント還元を両立させ、シェア拡大を図っています。",
+      "【ドコモの狙い/課題】低価格帯での楽天モバイルの攻勢は、ahamoやエコノミーMVNOのユーザー流出リスクを高めます。ドコモブランド全体として、料金だけでなく「通信品質」や「サポート体制」といった非価格価値での差別化が重要となります。",
+      "【★CAからの提案の切り口】ahamoの「高品質な通信」と「オンラインの快適サポート」を強調する訴求クリエイティブをTikTok/YouTube等の縦型動画で展開。さらに、メインブランドでは「あんしん」「つながり」をテーマにしたブランドイメージ広告をABEMA等の媒体で打ち出し、楽天モバイルとの違いを明確にします。"
+    ],
+    "date": "2026-08-14 21:33",
+    "id": "/rakuten-saikyo-plan"
+  },
+  {
+    "category": "通信/競合動向",
+    "title": "KDDI、au PAYとPontaポイント経済圏を強化、ローソン・セブン-イレブンとの連携で顧客囲い込みを加速",
+    "url": "https://example.com/kddi-ponta-strengthen",
+    "importance": "A",
+    "summary": [
+      "【事実】KDDIがau PAYとPontaポイントの連携を一層強化し、ローソンやセブン-イレブンなど主要コンビニエンスストアでのポイント還元率アップやキャンペーンを展開しています。",
+      "【ドコモの狙い/課題】競合であるKDDIの経済圏強化は、d払い・dポイントの顧客基盤への直接的な脅威となります。特にコンビニという日常利用頻度の高いチャネルでの優位性維持・強化が喫緊の課題です。",
+      "【★CAからの提案の切り口】d払い・dポイントの「日常での使いやすさ」を強調する比較広告や、特定コンビニでの高還元キャンペーンを企画。TikTok/YouTubeの縦型動画で「〇〇に行くならd払い一択！」といった具体的な利用シーンを訴求し、顧客の利用習慣をドコモ経済圏にシフトさせる施策を提案します。"
+    ],
+    "date": "2026-08-14 21:33",
+    "id": "ddi-ponta-strengthen"
+  },
+  {
+    "category": "スマートライフ/コンテンツ",
+    "title": "Lemino、人気K-POPアイドルの独占ライブ配信決定とオリジナルドラマ制作発表で有料会員獲得を狙う",
+    "url": "https://example.com/lemino-kpop-original-content",
+    "importance": "S",
+    "summary": [
+      "【事実】動画配信サービス「Lemino」が、人気K-POPグループの独占ライブ配信と、著名クリエイターによるオリジナルドラマの制作を発表し、コンテンツラインナップを大幅に強化します。",
+      "【ドコモの狙い/課題】有料会員数の拡大と、U-NEXTやNetflixといった競合サービスからの顧客獲得が最重要課題です。特に若年層や特定のファン層に響くコンテンツで差別化を図る一方で、コンテンツの認知度向上と加入への導線強化が求められます。",
+      "【★CAからの提案の切り口】K-POPファン層に特化したSNS広告（X, Instagram）や、ファンコミュニティと連携した広告展開を提案。ABEMAでの関連番組放送や限定コンテンツ告知、TikTok/YouTubeショート動画でのライブ・ドラマの見どころ紹介で話題化を図り、無料体験からの有料会員移行を最大化させます。"
+    ],
+    "date": "2026-08-14 21:33",
+    "id": "pop-original-content"
+  },
+  {
+    "category": "スマートライフ/決済・ポイント",
+    "title": "d払い、全国ドラッグストアでポイント還元率アップキャンペーンを展開し利用者を囲い込み",
+    "url": "https://example.com/dbarai-drugstore-campaign",
+    "importance": "S",
+    "summary": [
+      "【事実】d払いが全国のドラッグストアチェーンと提携し、特定期間中にd払いを利用すると最大20%のdポイント還元を行う大規模キャンペーンを開始しました。",
+      "【ドコモの狙い/課題】競合決済サービスとの差別化を図り、生活に密着した購買シーンでのd払い利用頻度とシェア拡大が狙いです。しかし、キャンペーン告知のリーチ最大化と、キャンペーン終了後の利用継続をどう促すかが課題です。",
+      "【★CAからの提案の切り口】dポイントデータを活用したリテールメディア連携によるターゲット広告配信でキャンペーン認知を最大化。さらに、購買データと連携し、特定商品の購入者に合わせたパーソナライズされたクーポン配信や、TikTok/YouTubeの縦型動画で「賢い買い物術」としてキャンペーン訴求を行い、利用習慣化を促進します。"
+    ],
+    "date": "2026-08-14 21:33",
+    "id": "i-drugstore-campaign"
+  },
+  {
+    "category": "スマートライフ/XR・メタバース",
+    "title": "ドコモ、XR事業を強化する新組織設立と「DOOR」機能拡充でメタバース戦略を加速",
+    "url": "https://example.com/docomo-xr-strategy-acceleration",
+    "importance": "S",
+    "summary": [
+      "【事実】NTTドコモがXR事業を推進する新組織を発足させ、既存のメタバースプラットフォーム「DOOR」の機能拡充やパートナー企業との連携強化を発表しました。",
+      "【ドコモの狙い/課題】5G普及による次世代体験の創出と新たな収益源確保が狙いです。若年層へのアプローチ強化や企業向けソリューション提供を目指しますが、プラットフォームの集客力向上と魅力的なコンテンツ開発が急務です。",
+      "【★CAからの提案の切り口】「DOOR」への集客強化のため、ABEMAでのイベント告知や人気クリエイターとのコラボによる縦型動画（TikTok/YouTube）を提案。CAが培ったメタバースプロデュースノウハウを活かし、企業コラボイベント企画や広告配信・効果測定支援で事業成長を加速させます。"
+    ],
+    "date": "2026-08-14 21:33",
+    "id": "trategy-acceleration"
+  },
+  {
     "category": "競合動向",
     "title": "【Aランク】KDDI、auとUQ mobile連携を強化した新プラン・販促キャンペーン発表",
     "url": "https://example.com/kddi_au_uq_campaign_news",
@@ -3820,83 +3898,5 @@
     ],
     "date": "2026-07-01 18:39",
     "id": "XhQcmFOS1Z3%3Foc%3D5"
-  },
-  {
-    "category": "ドコモ経済圏・スマートライフ",
-    "title": "dカード PLATINUM会員100万突破、ドコモ金融サービス強化へ",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8tdFFObC1oMkFWVS1OeWVFdXc0SHhnVVlvU2hjQWVNbzd3VVZpdjBzckVRSUpUZk9WRDlLdmZydk04YWw1amRVWU9ZQWtjRWdhbjFIOHRud09sR28?oc=5",
-    "importance": "A",
-    "summary": [
-      "【事実】「dカード PLATINUM」が1年足らずで100万会員を突破し、ドコモが金融サービス領域の強化を目指している。",
-      "【ドコモの狙い/課題】高所得層を中心とした優良顧客の囲い込みと、dカードを中心とした金融サービスの拡充が急務。ドコモ経済圏における決済・金融機能の基盤強化を図る。",
-      "【★CAからの提案の切り口】dカードPLATINUM会員という高LTV（Life Time Value）顧客層へのアプローチとして、ABEMAプレミアムユーザーや特定ジャンルコンテンツ視聴者への限定キャンペーンを展開。高単価商材の広告主とのタイアップ企画を提案し、決済データと連携した効果測定を実施。"
-    ],
-    "date": "2026-07-01 18:39",
-    "id": "OHRud09sR28%3Foc%3D5"
-  },
-  {
-    "category": "SNS・縦型動画トレンド",
-    "title": "Z世代の購買行動を動かす鍵は「共感できる縦型動画」、広告感の排除が重要",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1SUVJ6SE9oVjVYb2JUaFF3WmpQbVZ3NjE3OFdWWmF6U0l5V253NmRMSlNfOHlxekI2V0JzY2FRNkNUNU5JNWFqeGdOa2tTTGdfcDRidEFnMXduSTJmbm5oT05sWnpSMkltMGc?oc=5",
-    "importance": "S",
-    "summary": [
-      "【事実】Z世代の購買行動において、「企業の広告感」が薄く「共感できる縦型動画」が購買意欲を強く後押しするという調査結果が発表された。",
-      "【ドコモの狙い/課題】若年層への効果的なアプローチとして、従来の広告手法から脱却し、よりネイティブで共感を呼ぶコンテンツ戦略へのシフトが求められる。",
-      "【★CAからの提案の切り口】CAの強みであるTikTok/YouTube Shortsを活用した縦型動画制作・運用ノウハウを活かし、ドコモのサービスやブランドイメージをZ世代に響くUGC（User Generated Content）風クリエイティブで表現。インフルエンサーマーケティングと組み合わせ、自然な形でのエンゲージメントと購買促進を提案。"
-    ],
-    "date": "2026-07-01 18:39",
-    "id": "WnpSMkltMGc%3Foc%3D5"
-  },
-  {
-    "category": "次世代マーケ・AI活用",
-    "title": "CA、動画広告のAI完全自動生成とAI新職種導入で広告制作を革新",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9tM1hSeEJlb3pvd3ZhSkFxQXZuU0k4cEhXZ1FYUGZ4WWFGSGR1ZERYa2ZEcW41ZVhUSU5HdE43andBdGlXYUNTR2V3ZVBUNzRrVEc2Z2F2ZDJPbmhQbmpMeWM1MndfRFg?oc=5",
-    "importance": "S",
-    "summary": [
-      "【事実】サイバーエージェントが、動画広告のAIによる完全自動生成技術を開発し、AIクリエイティブ関連の新職種も導入する計画を発表した。",
-      "【ドコモの狙い/課題】AIによる広告制作の効率化とクリエイティブ効果の最大化は、競争が激化する広告市場において必須の技術。CAの技術革新を活用し、ドコモの広告投資対効果を向上させたい。",
-      "【★CAからの提案の切り口】CAの最先端AIクリエイティブ生成技術をドコモの動画広告全般に適用し、制作コスト削減とPDCAサイクルの高速化を提案。特にTikTok/YouTube等の縦型動画におけるAIを活用した「バズる」クリエイティブ生成を共同で推進。"
-    ],
-    "date": "2026-07-01 18:39",
-    "id": "eWM1MndfRFg%3Foc%3D5"
-  },
-  {
-    "category": "ドコモ経済圏・スマートライフ",
-    "title": "ドコモと東芝テック、購買データ活用によるリテールメディア強化へ",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5TczNXZmg4WDNHcVRwVjhKcHhlbmItZkI2c3FaWi1YcTJrWFNiamw5Y0dQNWRYQ2pMRldlcWVvWjBZdzJoelI5UFplNEN1UkxUVnRRSkxwazZVZXM0dDdSWThRN0hJLXJnb3c?oc=5",
-    "importance": "S",
-    "summary": [
-      "【事実】ドコモと東芝テックが協業検討を開始し、dポイントを含む購買行動データを活用したメーカー・小売業向けのマーケティング支援を目指す。",
-      "【ドコモの狙い/課題】1億会員のdポイントデータを活用し、メーカー・小売業の販促支援を通じてドコモ経済圏の価値を最大化するリテールメディア事業を強化。新たな収益源の確立。",
-      "【★CAからの提案の切り口】CAの持つデータ分析力と広告運用ノウハウを活かし、dポイントデータと連携した高精度なリテールメディア広告を提案。ABEMAやTikTokを活用し、購買データに基づいたO2O（Online to Offline）施策を共同で設計。"
-    ],
-    "date": "2026-07-01 18:39",
-    "id": "N0hJLXJnb3c%3Foc%3D5"
-  },
-  {
-    "category": "次世代マーケ・AI活用",
-    "title": "デジタル広告市場のグローバル競争激化：CAの先端技術でドコモのオンラインリーチを最大化",
-    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOTVJaM28yNlA3alhQcUFpS0RiVGM3bmpLTlNIXzdkNkZJMEV5d0ppM0hLNGxrNThlRGpSUVM1Y3Z4Si0tUE1ZODFEZnI2RHk3b2pqVllxb0MxWXIwTE01WWNISEY2M0FaUlNDcnpWMnp4TnRndHNuNU1ON1BnMm56b3FTWUNTRFRveW91RWZ3RUFSLUpFa0Zzam9MQkhqV281NGFCZk1mVEctNEZFbm1qT1JLVFgwakdWOHFYV0d4eVB6a01WSW9FUnF2M1ZVR2JST2hLTEJac1YyM3Fa?oc=5",
-    "importance": "B",
-    "summary": [
-      "【事実】グローバルデジタル広告市場は急成長しており、オンライン消費者リーチのための競争が激化している。",
-      "【ドコモの狙い/課題】デジタル広告の重要性が増す中で、効率的かつ効果的なオンライン消費者リーチ戦略を構築し、国内外での競争力を強化したい。最新の広告テクノロジーを活用し、投資対効果を最大化することが求められる。",
-      "【★CAからの提案の切り口】「CAのデジタル広告運用ノウハウと、最新のAI技術やメディアネットワーク（ABEMA含む）を組み合わせ、ドコモ様のオンラインマーケティング戦略全体を再設計しませんか？グローバル市場も視野に入れ、多角的なデータ分析に基づいた最適な広告配信戦略とクリエイティブで、ドコモ様のオンラインリーチを最大化し、国内外でのブランドプレゼンス向上に貢献します。」"
-    ],
-    "date": "2026-07-01 18:26",
-    "id": "EJac1YyM3Fa%3Foc%3D5"
-  },
-  {
-    "category": "SNS・縦型動画トレンド",
-    "title": "広告表示・表現のコンプライアンス強化：JARO苦情から学ぶCAの対応策",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9aMVFyQkdRYlpHWVFGN0JGVWNoNU83aGVEUWFpZDlwUXRUSFFoZ2xTSjN6azhDQzU0N25qUHBNamo5UzBKb1UzcTg0akROYnpxMmt3dm5JVk5sUzIxV2c5VmdhRDNSaHdLYWpXS1ZBbDVGQQ?oc=5",
-    "importance": "B",
-    "summary": [
-      "【事実】JAROに寄せられる広告に関する苦情の実態が示され、広告表示や表現の適正性がこれまで以上に重要視されている。",
-      "【ドコモの狙い/課題】特に料金プランやキャンペーンなど、誤解を招きやすい表現による顧客クレームやブランドイメージ低下のリスクを回避したい。広告制作・出稿におけるコンプライアンス体制の強化と、信頼性の高い情報提供が求められる。",
-      "【★CAからの提案の切り口】「CAは、景表法や薬機法など広告に関する法規制に精通した専門チームがいます。ドコモ様の広告制作において、当社の広告審査ノウハウとガイドラインを共有し、潜在的なリスクを事前に発見・回避するコンプライアンスチェック体制を共同で構築できます。これにより、広告表現によるリスクを最小限に抑えつつ、安心して効果的なプロモーションを展開できます。」"
-    ],
-    "date": "2026-07-01 18:26",
-    "id": "XS1ZBbDVGQQ%3Foc%3D5"
   }
 ]
