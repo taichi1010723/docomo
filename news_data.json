@@ -1,5 +1,57 @@
 [
   {
+    "category": "スマートライフ / Lemino",
+    "title": "Lemino、オリジナルドラマが若年層にヒット！ABEMA連携でさらなる視聴者層獲得を！",
+    "url": "https://example.com/lemino-original-drama-hit",
+    "importance": "A",
+    "summary": [
+      "【事実】ドコモの映像サービス「Lemino」で配信されたオリジナルドラマが、SNSを中心に若年層からの高評価を獲得し、視聴者数を伸ばしている。",
+      "【ドコモの狙い/課題】コンテンツ強化戦略が奏功し、Leminoのブランドイメージ向上と新規有料会員獲得に繋げたい。特に若年層のエンゲージメントをさらに高める必要性。",
+      "【★CAからの提案の切り口】ABEMAとLeminoの共同プロモーション企画で相互送客、TikTokでの「ドラマ切り抜きチャレンジ」や「推しシーン動画」を募るUGCキャンペーン、タレントを起用した縦型動画広告で視聴層拡大を。"
+    ],
+    "date": "2026-08-17 07:06",
+    "id": "o-original-drama-hit"
+  },
+  {
+    "category": "通信事業 / 5G",
+    "title": "ドコモ、5Gエリア拡大で新たなパートナーシップ構築へ！高速通信活用でCA共創のチャンス！",
+    "url": "https://example.com/docomo-5g-expansion",
+    "importance": "B",
+    "summary": [
+      "【事実】ドコモが5Gネットワークの地方展開を加速するため、新たなパートナー企業との連携を模索していると報じられた。",
+      "【ドコモの狙い/課題】全国的な5Gインフラの早期構築と、それに伴う新たなサービス創出が狙い。地域活性化や産業DXへの貢献も視野に入れる。",
+      "【★CAからの提案の切り口】5G高速通信を活かしたインタラクティブ広告の開発支援、地域密着型コンテンツプロモーションの共同企画、ABEMAと連携した5G時代の動画体験訴求キャンペーン。"
+    ],
+    "date": "2026-08-17 07:06",
+    "id": "/docomo-5g-expansion"
+  },
+  {
+    "category": "d払い / フィンテック",
+    "title": "d払い、コード決済利用で最大20%還元キャンペーン開始！競合巻き込みCA提案でシェア拡大へ",
+    "url": "https://example.com/docomo-dpay-campaign",
+    "importance": "A",
+    "summary": [
+      "【事実】ドコモが「d払い」利用者を対象に、対象店舗でのコード決済で最大20%のdポイント還元キャンペーンを開始した。",
+      "【ドコモの狙い/課題】決済サービスのシェア拡大と、利用頻度の向上を目的とした大規模プロモーション。若年層の新規ユーザー獲得と他社決済サービスからの乗り換えを促進したい。",
+      "【★CAからの提案の切り口】縦型動画広告（TikTok/YouTube Shorts）でのキャンペーン訴求力強化、CA保有メディア（ABEMAなど）を活用した共同企画でのリーチ拡大、dポイントデータを活用した潜在層へのターゲティング広告提案。"
+    ],
+    "date": "2026-08-17 07:06",
+    "id": "docomo-dpay-campaign"
+  },
+  {
+    "category": "スマートライフ / メタバース",
+    "title": "ドコモ、「dメタバースワールド」本格始動！CAからのマネタイズ加速提案が今すぐ必要！",
+    "url": "https://example.com/docomo-metaverse-world-launch",
+    "importance": "S",
+    "summary": [
+      "【事実】ドコモが「dメタバースワールド」の本格展開を発表。dポイントやLeminoコンテンツとの連携を強化し、ユーザー体験の拡張を目指す。",
+      "【ドコモの狙い/課題】d経済圏の次なる成長エンジンとして、メタバース空間での新たな顧客接点と収益機会を創出したい狙い。競合他社のXR戦略への対抗も急務。",
+      "【★CAからの提案の切り口】ABEMA連携での独占バーチャルライブイベントの企画、dポイントデータを活用したリアル連動型O2Oキャンペーン、TikTok・YouTubeでの体験型プロモーション動画制作で新規ユーザー獲得を加速。"
+    ],
+    "date": "2026-08-17 07:06",
+    "id": "taverse-world-launch"
+  },
+  {
     "category": "決済・金融 / d払い",
     "title": "d払い、「Amazon」での支払い額に応じてdポイントを還元するキャンペーンを実施：大手EC連携で利用促進",
     "url": "https://k-tai.watch.impress.co.jp/docs/news/1571694.html",
@@ -3846,57 +3898,5 @@
     ],
     "date": "2026-07-02 17:38",
     "id": "ZjVmYTBFb2c%3Foc%3D5"
-  },
-  {
-    "category": "ドコモ経済圏・スマートライフ",
-    "title": "dポイントクラブ改定でd払い特典強化！経済圏活性化戦略",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16N1ZWQkxsY2VVS1pyWWVjdENaZnM1MFd3RnV0djRSRjRYSTBfc1N6WVpEajAtU2hfczFWVmp6OHVMU0pLVmE1UDFxRHZXazNFZzVYdi1KblRYSWs?oc=5",
-    "importance": "A",
-    "summary": [
-      "【事実】NTTドコモが「dポイントクラブ」の改定を行い、dポイントに加えてd払いでの特典強化を発表しました。",
-      "【ドコモの狙い/課題】d払いとdポイントの連携を一層強化し、ドコモ経済圏内での消費行動を促進。ユーザーがよりお得に、より便利にサービスを利用できる環境を整えることで、顧客ロイヤルティの向上を図る。",
-      "【★CAからの提案の切り口】dポイントクラブ改定とd払い特典強化のメリットを、ターゲット層別に最適化したキャンペーン広告で周知。AIを活用してユーザーの購買履歴や行動パターンを分析し、最も効果的な特典訴求クリエイティブを自動生成・配信。"
-    ],
-    "date": "2026-07-02 17:38",
-    "id": "di1KblRYSWs%3Foc%3D5"
-  },
-  {
-    "category": "ドコモ経済圏・スマートライフ",
-    "title": "ahamoポイ活でd払い利用促進！若年層ターゲット戦略",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCV3pXY29aT1g4YkdHQzFBX3E3NF9PWnVVbjVYY0VVcXVkVzNYX1lqTTh3cGtPajBxTmpKY0ZwQ0FGU3ktdlBwblpmMXVkc2VLVUVua0J0eE1GbDJpbkRVcnRIanBHbi1UNmFrNA?oc=5",
-    "importance": "A",
-    "summary": [
-      "【事実】ドコモが「ahamo ポイ活」を提供し、d払い利用時の還元率を＋3％とする優遇策を開始しました。",
-      "【ドコモの狙い/課題】ahamoユーザー、特に若年層のd払い利用を促進し、ドコモ経済圏への囲い込みを強化したい。若年層のポイ活ニーズに応えることで、ブランドロイヤルティを向上させる。",
-      "【★CAからの提案の切り口】ahamoユーザーの若年層に特化し、d払い還元率アップのメリットを「直感的」「お得感」を強調して訴求する縦型動画広告（TikTok, YouTube Shorts）を制作・運用。インフルエンサーマーケティングと組み合わせ、利用シーンを具体的に提示。"
-    ],
-    "date": "2026-07-02 17:38",
-    "id": "Hbi1UNmFrNA%3Foc%3D5"
-  },
-  {
-    "category": "ドコモ経済圏・スマートライフ",
-    "title": "dカード GOLD No.1の地位を活かしたブランド戦略",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xS1BpbkxaaFFjZVVBMjlMQzBaSWVGeVh3eDB5OFJhS2lzbHJzblJS0Q0TkR6M3NoNWRXSVdvRjJtanVYZlJHMlQwUlBsRkhzdTJrcnh4TlVoRTg?oc=5",
-    "importance": "A",
-    "summary": [
-      "【事実】NTTドコモの「dカード GOLD」が、ゴールドカード保有率でNo.1の地位を獲得しています。",
-      "【ドコモの狙い/課題】dカード GOLDの揺るぎないブランド力をさらに高め、既存会員のロイヤルティを維持しつつ、新たな優良顧客層の獲得を継続したい。高ARPU層の顧客基盤を一層強固にする。",
-      "【★CAからの提案の切り口】No.1の信頼性とステータス性を訴求するブランディング広告を提案。ABEMAでのタイアップコンテンツなど、dカード GOLDが提供する「上質なライフスタイル」を体験的に表現するクリエイティブで、さらなるエンゲージメントと新規獲得を狙う。"
-    ],
-    "date": "2026-07-02 17:38",
-    "id": "cnh4TlVoRTg%3Foc%3D5"
-  },
-  {
-    "category": "ドコモ経済圏・スマートライフ",
-    "title": "ゆうちょ銀行との連携でdカード GOLD顧客層拡大へ",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1hazhxRVYzdW1ZbE9ZcEdtYzhNeXM4OWszTUFCaEk0VGF0RjIzWWg0a3h2ZE5VZVVjVEZadTVrRnk4bUwwMVJfWFRzbnFjU09fT2E4bVk4NWpaZHRMS0hzYXhhNkpxUGFsbGc?oc=5",
-    "importance": "A",
-    "summary": [
-      "【事実】ゆうちょ銀行と提携し、「dカード GOLD U ゆうちょ銀行デザイン」の取り扱いを開始しました。",
-      "【ドコモの狙い/課題】ゆうちょ銀行の広範な顧客基盤を通じてdカード GOLDの普及を加速させ、ドコモ経済圏への新規顧客誘導を図る。金融機関との連携による顧客接点の拡大。",
-      "【★CAからの提案の切り口】ゆうちょ銀行の顧客層の特性を考慮し、信頼性と実用性を重視したクリエイティブを提案。AIによる顧客分析で、dカード GOLDの具体的な金融メリット（例：保険、優待）を訴求するパーソナライズ広告を配信。"
-    ],
-    "date": "2026-07-02 17:38",
-    "id": "NkpxUGFsbGc%3Foc%3D5"
   }
 ]
