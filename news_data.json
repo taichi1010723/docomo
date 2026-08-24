@@ -1,5 +1,18 @@
 [
   {
+    "category": "次世代マーケ・AI活用",
+    "title": "広告運用自動化ツール「Shirofune」とGoogle CM360連携強化：ドコモの広告運用最適化への示唆",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9WcjN4dzF2M2hRczdJNlhqNjBQTkREZW9fRHpjU3I1a2dtVnpEOW5QQmxBVzYtdWZkTGFVN2p2ZVBzdkM3bDFMYXlxb2lXRzdHbFdHWVBFRzVWQ01SZU4ydDZoV21xaUtRY1E?oc=0",
+    "importance": "A",
+    "summary": [
+      "【事実】広告運用自動化ツール「Shirofune」がGoogleの広告管理ツール「Campaign Manager 360（CM360）」との連携機能を強化し、Floodlight計測データをレポートだけでなく広告運用（入札最適化など）にも活用可能になりました。",
+      "【ドコモの狙い/課題】ドコモの多岐にわたるスマートライフサービス（Lemino, d払いなど）や通信事業では、複雑な広告運用を効率化し、ROI最大化が喫緊の課題です。CM360で一元計測したデータを、よりリアルタイムで運用の最適化に繋げたいニーズは高いと推察されます。",
+      "【★CAからの提案の切り口】ドコモの既存CM360活用状況をヒアリングし、CA独自のAI戦略室の技術力と運用ノウハウを活かした『ドコモ専用の運用型広告最適化ソリューション』を提案。dポイントデータ等のファーストパーティデータを活用した高精度なターゲティングと、ABEMA連携などCAのメディア資産も活用したクロスチャネルでの予算配分・LTV最大化を実現します。"
+    ],
+    "date": "2026-08-24 21:19",
+    "id": "V21xaUtRY1E%3Foc%3D0"
+  },
+  {
     "category": "通信事業_次世代技術",
     "title": "ドコモ、6G技術R&D投資加速！2030年代実用化に向けたブランディング戦略を",
     "url": "https://www.docomo.ne.jp/corporate/rd/news/xxxx-20240710",
@@ -3885,18 +3898,5 @@
     ],
     "date": "2026-07-23 16:44",
     "id": "cs/news/1511116.html"
-  },
-  {
-    "category": "スマートライフ・Lemino",
-    "title": "Lemino、見放題ユーザー数好調でさらなる成長へ",
-    "url": "https://k-tai.watch.impress.co.jp/docs/news/1513788.html",
-    "importance": "A",
-    "summary": [
-      "【事実】ドコモの動画配信サービス「Lemino」が見放題ユーザー数を順調に伸ばしており、サービスが好調に推移している。",
-      "【ドコモの狙い/課題】この好調を維持・加速させ、さらなるユーザー獲得と、競争激化するVOD市場でのプレゼンス向上を図る。コンテンツ投資とプロモーションの最適化が課題。",
-      "【★CAからの提案の切り口】「Leminoの好調を維持するため、CAのABEMAにおける動画プロモーション実績を活かし、コンテンツのターゲット層に合わせた多角的なプロモーション戦略をご提案。特にTikTok/YouTube等の縦型動画での人気コンテンツの切り出しや、AIを活用したクリエイティブ最適化で、新規ユーザー獲得と視聴継続率向上に貢献します。」"
-    ],
-    "date": "2026-07-23 16:44",
-    "id": "cs/news/1513788.html"
   }
 ]
