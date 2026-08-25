@@ -1,6 +1,19 @@
 [
   {
     "category": "次世代マーケ・AI活用",
+    "title": "ドコモの広告運用DXを加速：AIツール『Shirofune』×Google CM360連携を活かしたデータ活用戦略",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9WcjN4dzF2M2hRczdJNlhqNjBQTkREZW9fRHpjU3I1a2dtVnpEOW5QQmxBVzYtdWZkTGFVN2p2ZVBzdkM3bDFMYXlxb2lXRzdHbFdHWVBFRzVWQ01SZU4ydDZoV21xaUtRY1E?oc=C",
+    "importance": "A",
+    "summary": [
+      "【事実】広告運用自動化ツール「Shirofune」がGoogleのCampaign Manager 360 (CM360) と連携し、Floodlight計測データを広告運用（入札調整など）に直接活用可能になりました。",
+      "【ドコモの狙い/課題】Lemino、d払い、dポイントなど多岐にわたるドコモのプロダクトは、膨大な広告出稿を抱え、その運用効率化と費用対効果の最大化が喫緊の課題です。CM360と運用ツールの連携は、精緻な効果計測とリアルタイムな運用最適化を実現し、競合他社に先駆けたデータドリブンなマーケティング推進に不可欠となります。",
+      "【★CAからの提案の切り口】我が社なら、CAが有する最先端のAI広告運用ノウハウと、ドコモの膨大なdポイントデータを組み合わせ、このツール連携で得られる効果計測データを最大限に活用。d払い決済データ連携によるリテールメディア施策や、ABEMA連携での動画広告効果測定など、各プロダクトのデジタル広告戦略を高度に自動化・最適化する具体策を提案可能です。"
+    ],
+    "date": "2026-08-25 12:36",
+    "id": "V21xaUtRY1E%3Foc%3DC"
+  },
+  {
+    "category": "次世代マーケ・AI活用",
     "title": "ドコモの多角化戦略を加速させる広告運用効率化！Google CM360とAIツールShirofune連携でデータドリブン施策を最大化",
     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9WcjN4dzF2M2hRczdJNlhqNjBQTkREZW9fRHpjU3I1a2dtVnpEOW5QQmxBVzYtdWZkTGFVN2p2ZVBzdkM3bDFMYXlxb2lXRzdHbFdHWVBFRzVWQ01SZU4ydDZoV21xaUtRY1E?oc=oc",
     "importance": "A",
@@ -3885,18 +3898,5 @@
     ],
     "date": "2026-07-23 16:44",
     "id": "cs/news/1507026.html"
-  },
-  {
-    "category": "競合動向・通信事業",
-    "title": "ソフトバンクLINEMO、LINEギガフリー対象拡大で若年層の囲い込みを強化",
-    "url": "https://k-tai.watch.impress.co.jp/docs/news/1513813.html",
-    "importance": "A",
-    "summary": [
-      "【事実】ソフトバンクの「LINEMO」がLINEギガフリーの対象を拡大し、若年層を中心に訴求力を高めている。",
-      "【ドコモの狙い/課題】若年層への訴求力強化を図る競合に対し、ドコモのirumoやeximo、そしてドコモ経済圏の魅力をどうアピールし、若年層の新規獲得・流出防止を図るかが課題。",
-      "【★CAからの提案の切り口】「LINEMOの動向に対し、ドコモの『irumo』のターゲット層である若年層向けに、TikTok等の縦型動画でデータ容量の心配なく楽しめるメリットを訴求。CAの持つインフルエンサーネットワークと連携し、UGCを創出することで、ドコモの新料金プランへのエンゲージメントを高める施策をご提案します。」"
-    ],
-    "date": "2026-07-23 16:44",
-    "id": "cs/news/1513813.html"
   }
 ]
