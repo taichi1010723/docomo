@@ -1,6 +1,19 @@
 [
   {
     "category": "次世代マーケ・AI活用",
+    "title": "ドコモの広告運用高度化へ！ShirofuneとCM360連携でデータ活用最大化を提案",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9WcjN4dzF2M2hRczdJNlhqNjBQTkREZW9fRHpjU3I1a2dtVnpEOW5QQmxBVzYtdWZkTGFVN2p2ZVBzdkM3bDFMYXlxb2lXRzdHbFdHWVBFRzVWQ01SZU4ydDZoV21xaUtRY1E?oc=1",
+    "importance": "A",
+    "summary": [
+      "【事実】広告運用自動化ツール「Shirofune」がGoogleのCampaign Manager 360（CM360）と連携し、Floodlight計測データを広告運用に直接活用可能になりました。",
+      "【ドコモの狙い/課題】ドコモの多様なプロダクト（d払い、Lemino等）のデジタル広告において、CM360で計測した精緻なコンバージョンデータを活用し、広告運用の効率と精度を飛躍的に向上させ、広告投資対効果を最大化したい狙いがあります。",
+      "【★CAからの提案の切り口】我が社なら、この連携機能を活用し、ドコモの広告予算を最も効果的に配分するデータドリブンな運用戦略を提案します。特に、dポイントデータを活用したリテールメディアやABEMA連携を通じた多様な顧客接点において、CM360とShirofuneの連携で得られる深度の高いデータを活かし、パーソナライズされたクリエイティブ（TikTok/YouTube等の縦型動画含む）でドコモのビジネス成長に貢献できます。"
+    ],
+    "date": "2026-08-25 21:19",
+    "id": "V21xaUtRY1E%3Foc%3D1"
+  },
+  {
+    "category": "次世代マーケ・AI活用",
     "title": "ドコモの広告運用DXを加速：AIツール『Shirofune』×Google CM360連携を活かしたデータ活用戦略",
     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9WcjN4dzF2M2hRczdJNlhqNjBQTkREZW9fRHpjU3I1a2dtVnpEOW5QQmxBVzYtdWZkTGFVN2p2ZVBzdkM3bDFMYXlxb2lXRzdHbFdHWVBFRzVWQ01SZU4ydDZoV21xaUtRY1E?oc=C",
     "importance": "A",
@@ -3885,18 +3898,5 @@
     ],
     "date": "2026-07-23 16:44",
     "id": "0A1G0Q3A710C2000000/"
-  },
-  {
-    "category": "通信事業・MVNO",
-    "title": "ドコモ、新たなエコノミーMVNO「リペアSIM」で格安SIM市場を攻める",
-    "url": "https://k-tai.watch.impress.co.jp/docs/news/1507026.html",
-    "importance": "B",
-    "summary": [
-      "【事実】ドコモが「リペアSIM」を新たなエコノミーMVNOとして7月1日に提供開始。",
-      "【ドコモの狙い/課題】多様なニーズを持つユーザー層、特に低価格帯を求める層へのリーチを強化し、ドコモ経済圏への囲い込みを狙う。",
-      "【★CAからの提案の切り口】「『リペアSIM』のような特定ニーズ特化型サービスに対し、CAが持つ精密な行動データからターゲットを抽出し、Webと連携したリテールメディアでのプロモーションや、CPAを重視した成果報酬型広告での効率的なユーザー獲得を支援します。」"
-    ],
-    "date": "2026-07-23 16:44",
-    "id": "cs/news/1507026.html"
   }
 ]
