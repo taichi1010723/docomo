@@ -1,6 +1,19 @@
 [
   {
     "category": "次世代マーケ・AI活用",
+    "title": "ドコモの多様なプロダクト戦略を加速！「Shirofune」とCM360連携が示す運用最適化とCAの勝ち筋",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9WcjN4dzF2M2hRczdJNlhqNjBQTkREZW9fRHpjU3I1a2dtVnpEOW5QQmxBVzYtdWZkTGFVN2p2ZVBzdkM3bDFMYXlxb2lXRzdHbFdHWVBFRzVWQ01SZU4ydDZoV21xaUtRY1E?oc=2",
+    "importance": "A",
+    "summary": [
+      "【事実】広告運用自動化ツール「Shirofune」がGoogleのCampaign Manager 360 (CM360) と連携し、Floodlight計測データをレポートだけでなく、複数媒体を横断した広告運用（入札最適化など）にも直接活用可能になりました。",
+      "【ドコモの狙い/課題】通信、Lemino、d払い、スマートライフなど多岐にわたるドコモの各プロダクトにおいて、広告効果の最大化と運用工数削減は喫緊の課題。この連携は、多様なサービス群全体で統合的な効果測定データ（特にコンバージョン）を運用に活かし、ROAS向上を目指すドコモの動きと合致するものです。",
+      "【★CAからの提案の切り口】我が社なら、この動向を捉え、CM360とdポイントデータを連携させたCA独自のAI分析/運用戦略で、Leminoやd払いといった個別プロダクトだけでなく、ドコモ全体での顧客ジャーニー統合型広告運用を提案できます。特に、dポイントデータを活用したリテールメディア戦略や、ABEMA連携による高精度ターゲティングで、ドコモの運用自動化・最適化に圧倒的な成果で並走可能です。"
+    ],
+    "date": "2026-08-26 12:42",
+    "id": "V21xaUtRY1E%3Foc%3D2"
+  },
+  {
+    "category": "次世代マーケ・AI活用",
     "title": "ドコモの広告運用高度化へ！ShirofuneとCM360連携でデータ活用最大化を提案",
     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9WcjN4dzF2M2hRczdJNlhqNjBQTkREZW9fRHpjU3I1a2dtVnpEOW5QQmxBVzYtdWZkTGFVN2p2ZVBzdkM3bDFMYXlxb2lXRzdHbFdHWVBFRzVWQ01SZU4ydDZoV21xaUtRY1E?oc=1",
     "importance": "A",
@@ -3885,18 +3898,5 @@
     ],
     "date": "2026-07-23 16:44",
     "id": "3/07/07/230707b.html"
-  },
-  {
-    "category": "生成AI・DX",
-    "title": "ドコモとNEC、生成AIでネットワーク運用を自動化し効率向上",
-    "url": "https://www.nikkei.com/article/DGXZQOUC10A1G0Q3A710C2000000/",
-    "importance": "B",
-    "summary": [
-      "【事実】NTTドコモとNECが生成AIを活用し、ネットワーク運用を自動化する実証実験を開始。",
-      "【ドコモの狙い/課題】ネットワーク運用の効率化と安定性向上により、コスト削減とサービス品質の維持・向上を図る。これは技術開発と業務効率化が主眼。",
-      "【★CAからの提案の切り口】「ドコモの先進的なAI活用事例として、技術系メディアやビジネス層への認知を拡大するPR戦略を策定。LinkedInを活用したホワイトペーパー広告や、専門家向けイベントでのブランディング支援により、ドコモの技術的リーダーシップをアピールする施策をご提案します。」"
-    ],
-    "date": "2026-07-23 16:44",
-    "id": "0A1G0Q3A710C2000000/"
   }
 ]
