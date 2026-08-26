@@ -1,6 +1,19 @@
 [
   {
     "category": "次世代マーケ・AI活用",
+    "title": "AI広告運用ツールShirofune、Google CM360連携で効果最大化へ - ドコモの複雑な広告戦略にも適用可能か？",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9WcjN4dzF2M2hRczdJNlhqNjBQTkREZW9fRHpjU3I1a2dtVnpEOW5QQmxBVzYtdWZkTGFVN2p2ZVBzdkM3bDFMYXFxb2lXRzdHbFdHWVBFRzVWQ01SZU4ydDZoV21xaUtRY1E?oc=0",
+    "importance": "A",
+    "summary": [
+      "【事実】広告運用自動化ツール「Shirofune」がGoogleのCampaign Manager 360 (CM360) と連携し、Floodlight計測データをレポートだけでなく広告運用に直接活用できるようになりました。",
+      "【ドコモの狙い/課題】ドコモは多岐にわたるサービス（通信、Lemino、d払い等）を展開し、CM360で横断的な広告効果計測・管理を行っています。煩雑化する広告運用において、CM360データを活用した自動最適化は運用工数削減と広告ROI最大化の両立に向けた喫緊の課題です。",
+      "【★CAからの提案の切り口】弊社CAはShirofuneのようなAI広告運用ツールへの知見も深く、ドコモ様の複雑なCM360 Floodlightデータを活用し、各プロダクトの広告運用を効率的かつ高精度に最適化できます。ABEMA連携やdポイントデータを活かしたリテールメディア施策など、貴社固有のデータとCAの運用ノウハウを組み合わせた、唯一無二の成果最大化プランをご提案可能です。"
+    ],
+    "date": "2026-08-26 21:22",
+    "id": "V21xaUtRY1E%3Foc%3D0"
+  },
+  {
+    "category": "次世代マーケ・AI活用",
     "title": "ドコモの多様なプロダクト戦略を加速！「Shirofune」とCM360連携が示す運用最適化とCAの勝ち筋",
     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9WcjN4dzF2M2hRczdJNlhqNjBQTkREZW9fRHpjU3I1a2dtVnpEOW5QQmxBVzYtdWZkTGFVN2p2ZVBzdkM3bDFMYXlxb2lXRzdHbFdHWVBFRzVWQ01SZU4ydDZoV21xaUtRY1E?oc=2",
     "importance": "A",
@@ -3885,18 +3898,5 @@
     ],
     "date": "2026-07-23 16:44",
     "id": "cs/news/1513257.html"
-  },
-  {
-    "category": "生成AI・IOWN・DX",
-    "title": "ドコモとNTT、生成AI・IOWNで未来のビジネスモデルを共創",
-    "url": "https://group.ntt/jp/newsrelease/2023/07/07/230707b.html",
-    "importance": "B",
-    "summary": [
-      "【事実】ドコモとNTTが連携し、生成AIとIOWNを組み合わせた新たなビジネスモデルの創出に取り組む。",
-      "【ドコモの狙い/課題】NTTグループ全体の技術力を結集し、次世代の通信・情報サービスや社会インフラをデザイン。長期的な視点で、技術的優位性を確立し、新たな市場を創造したい。",
-      "【★CAからの提案の切り口】「ドコモとNTTの描く未来像を、一般層にも分かりやすく伝えるブランディング戦略を策定。ABEMAのドキュメンタリーコンテンツや、先端技術に特化したWebメディアでのPRを通じて、イノベーションリーダーとしてのNTTグループの価値を訴求する施策をご提案します。」"
-    ],
-    "date": "2026-07-23 16:44",
-    "id": "3/07/07/230707b.html"
   }
 ]
