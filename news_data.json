@@ -1,6 +1,19 @@
 [
   {
     "category": "次世代マーケ・AI活用",
+    "title": "AIを活用した次世代マーケティング戦略の潮流とドコモへの示唆",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1vQnNLUHlqWHFsMmo0LU81T1lnUUhuT2dENkxWaXVTaEpqN01rdnUyVlZrbXEwXzA4cmwtYXhPaWNuLWFGNktfbEFSWllmVFJtcnhVUzRsQWpTR2NSanFYbFdRQWtIOHNRcTBRZTVkcUVwN0Z0bDJyVFhZUQ?oc=C",
+    "importance": "B",
+    "summary": [
+      "【事実】ニコニコニュースが「次世代マーケ・AI活用」に関する動向を報じた。具体的な記事内容は不明だが、企業がAI技術をマーケティング戦略に導入し、顧客体験向上や効率化を図るトレンドが加速していることを示唆する。",
+      "【ドコモの狙い/課題】ドコモは通信事業に加え、Lemino、d払い、メタバースなどのスマートライフ領域で顧客接点を拡大しており、AIを活用したパーソナライズドマーケティングはLTV最大化の鍵。競合他社との差別化を図りつつ、効果的な顧客獲得・維持のためのAI活用戦略確立が喫緊の課題。",
+      "【★CAからの提案の切り口】ドコモの強みであるdポイントデータとCAが持つ膨大な広告配信データを統合し、AIを活用した高精度なターゲット抽出・レコメンデーションエンジンを共同開発。特にLeminoやd払いユーザー向けに、ABEMA連携によるインタラクティブ広告と、ユーザーインサイトを捉えたTikTok/YouTube等の縦型動画クリエイティブで、体験型・エンゲージメント重視のマーケティング施策を提案。"
+    ],
+    "date": "2026-08-27 22:10",
+    "id": "0bDJyVFhZUQ%3Foc%3DC"
+  },
+  {
+    "category": "次世代マーケ・AI活用",
     "title": "AI広告運用ツールShirofune、Google CM360連携で効果最大化へ - ドコモの複雑な広告戦略にも適用可能か？",
     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9WcjN4dzF2M2hRczdJNlhqNjBQTkREZW9fRHpjU3I1a2dtVnpEOW5QQmxBVzYtdWZkTGFVN2p2ZVBzdkM3bDFMYXFxb2lXRzdHbFdHWVBFRzVWQ01SZU4ydDZoV21xaUtRY1E?oc=0",
     "importance": "A",
@@ -3885,18 +3898,5 @@
     ],
     "date": "2026-07-23 16:44",
     "id": "67GZ0W3A700C2000000/"
-  },
-  {
-    "category": "社会貢献・インフラ",
-    "title": "ドコモ、災害時通信確保に向けた復旧訓練を強化",
-    "url": "https://k-tai.watch.impress.co.jp/docs/news/1513257.html",
-    "importance": "C",
-    "summary": [
-      "【事実】ドコモが災害発生時の通信インフラ復旧に向けた訓練を実施し、災害対応力を強化。",
-      "【ドコモの狙い/課題】国民の生命・財産を守るための通信インフラ事業者としての社会的責任を全うし、ブランドイメージ向上を図る。",
-      "【★CAからの提案の切り口】「災害対策の重要性を一般層に広く啓蒙するため、ドコモの地域社会への貢献をテーマとしたABEMAでのドキュメンタリーコンテンツ制作や、地域コミュニティと連携した啓発イベント企画など、エンゲージメントを高めるPR施策を共同でご検討できます。」"
-    ],
-    "date": "2026-07-23 16:44",
-    "id": "cs/news/1513257.html"
   }
 ]
