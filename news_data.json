@@ -1,6 +1,19 @@
 [
   {
     "category": "次世代マーケ・AI活用",
+    "title": "（詳細不明）ニコニコニュースのAI・次世代マーケティング関連動向について",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1vQnNMUHlqWHFsMmo0LU81T1lnUUhuT2dENkxWaXVTaEpqN01rdnUyVlZrbXEwXzA4cmwtYXhPaWNuLWFGNktfbEFSWllmVFJtcnhVUzRsQWpTR2NSanFYbFdRQWtIOHNRcTBRZTVkcUVwN0Z0bDJyVFhZUQ?oc=C",
+    "importance": "C",
+    "summary": [
+      "【事実】「9月3日（木） - ニコニコニュース」という見出しとURLのみで、具体的な記事内容は提供されていません。カテゴリは「次世代マーケ・AI活用」とされています。",
+      "【ドコモの狙い/課題】記事内容が不明のため、直接的なドコモの狙いや課題を特定することは困難です。しかし、もしAIや次世代マーケティングに関する動きであれば、ドコモがスマートライフ事業（Lemino, d払いなど）や顧客データ活用において、最先端技術を取り入れることへの関心や、競合に先んじる必要性があると考えられます。",
+      "【★CAからの提案の切り口】記事内容の詳細が判明し次第、AIを活用したドコモの広告運用最適化や、dポイントデータと連携したパーソナライズ広告の実現、新たなユーザー体験を創出するクリエイティブ開発など、具体的な施策を提案可能です。特に、TikTok/YouTube等の縦型動画におけるAIを活用したABテストや、ABEMA連携での新しい広告配信モデルは、我が社が最も得意とする領域としてドコモを力強くサポートできます。"
+    ],
+    "date": "2026-08-28 14:50",
+    "id": "0bDJyVFhZUQ%3Foc%3DC"
+  },
+  {
+    "category": "次世代マーケ・AI活用",
     "title": "AIを活用した次世代マーケティング戦略の潮流とドコモへの示唆",
     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1vQnNLUHlqWHFsMmo0LU81T1lnUUhuT2dENkxWaXVTaEpqN01rdnUyVlZrbXEwXzA4cmwtYXhPaWNuLWFGNktfbEFSWllmVFJtcnhVUzRsQWpTR2NSanFYbFdRQWtIOHNRcTBRZTVkcUVwN0Z0bDJyVFhZUQ?oc=C",
     "importance": "B",
@@ -3885,18 +3898,5 @@
     ],
     "date": "2026-07-24 02:04",
     "id": "lan-expansion-202407"
-  },
-  {
-    "category": "グローバル・IOWN",
-    "title": "NTTドコモ、IOWNのグローバル普及に向け海外連携を強化",
-    "url": "https://www.nikkei.com/article/DGXZQOUC067GZ0W3A700C2000000/",
-    "importance": "C",
-    "summary": [
-      "【事実】NTTドコモが、NTTグループ全体の光技術「IOWN」のグローバル展開に向け、海外企業との連携を強化している。",
-      "【ドコモの狙い/課題】IOWNの国際標準化と普及を加速させ、次世代通信インフラのリーダーシップを確立すること。しかし、これは長期的なR&Dおよび企業間連携のフェーズ。",
-      "【★CAからの提案の切り口】「IOWNの先進性をステークホルダーや技術者層に認知させるため、BtoBマーケティング視点で、海外のテクノロジー系メディアや専門イベントでのPR支援、およびLinkedInなどのビジネスSNSを活用したターゲティング広告によるリード獲得施策をご提案します。」"
-    ],
-    "date": "2026-07-23 16:44",
-    "id": "67GZ0W3A700C2000000/"
   }
 ]
