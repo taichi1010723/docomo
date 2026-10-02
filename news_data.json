@@ -1,5 +1,96 @@
 [
   {
+    "category": "ESG/企業活動",
+    "title": "ドコモ、環境配慮素材スマホでESG経営を強化！持続可能性を訴求するブランディング戦略を。",
+    "url": "https://example.com/docomo_esg_smartphone",
+    "importance": "B",
+    "summary": [
+      "【事実】ドコモが2024年夏モデル以降のスマートフォンで再生プラスチックなどの環境配慮素材の採用を拡大し、サプライチェーン全体のCO2排出量削減を目指すESG経営を強化。",
+      "【ドコモの狙い/課題】企業の社会的責任（CSR）への意識が高まる中、環境への配慮を前面に出すことで企業ブランド価値向上とSDGs推進への貢献をアピール。環境意識の高い層への訴求強化が必要。",
+      "【★CAからの提案の切り口】環境問題をテーマにしたインフルエンサーマーケティングや、若年層に響くTikTok等の縦型動画で製品の環境価値を分かりやすく伝えるキャンペーンを提案。ABEMAでのドキュメンタリー風タイアップ広告で、ドコモのESG活動への真摯な取り組みを訴求。"
+    ],
+    "date": "2026-10-02 18:04",
+    "id": "ocomo_esg_smartphone"
+  },
+  {
+    "category": "通信政策",
+    "title": "総務省が5G整備加速を要請、ローミング義務化議論再燃でドコモの戦略に影響も。",
+    "url": "https://example.com/soumu_5g_roaming",
+    "importance": "B",
+    "summary": [
+      "【事実】総務省がMNOに5Gエリアの早期全国展開を要請し、地方でのエリア格差是正のためローミング義務化の議論が再燃している。",
+      "【ドコモの狙い/課題】5Gエリア展開の加速は必須課題であり、義務化の動向によっては事業戦略や設備投資計画に大きな影響を与える可能性。エリア競争優位性のアピールが重要になる。",
+      "【★CAからの提案の切り口】ドコモが展開する5Gエリアの広さや速さを、ユーザーが直感的に理解できる体験型コンテンツやAR広告で訴求。地方ユーザーの不安を払拭する情報提供キャンペーンをWeb広告とSNSで展開。"
+    ],
+    "date": "2026-10-02 18:04",
+    "id": "com/soumu_5g_roaming"
+  },
+  {
+    "category": "スマートライフ/XR",
+    "title": "ドコモが万博でXRライド出展！CAはメタバース連携プロモーションで未来体験を訴求。",
+    "url": "https://example.com/docomo_expo_xr",
+    "importance": "A",
+    "summary": [
+      "【事実】ドコモが2025年大阪・関西万博に5G活用没入型XRアトラクション「ドコモXRライド」を出展、将来的なメタバース連携も視野に入れていると発表。",
+      "【ドコモの狙い/課題】万博を通じて5GやXR技術の可能性をアピールし、ブランドイメージ向上と未来のスマートライフ事業への期待感を醸成。体験型コンテンツの事前告知と集客戦略が重要。",
+      "【★CAからの提案の切り口】CAの「REALITY XR cloud」との連携により、万博出展を記念したプレイベントをメタバース空間で開催。縦型動画でXRライドの魅力を事前体験できるコンテンツを制作し、期待感を高めるプロモーションを提案。"
+    ],
+    "date": "2026-10-02 18:04",
+    "id": "e.com/docomo_expo_xr"
+  },
+  {
+    "category": "競合動向/決済・ポイント",
+    "title": "KDDIがau PAY・Ponta連携で経済圏拡大！ドコモもd払い・dポイントのさらなる差別化戦略を。",
+    "url": "https://example.com/kddi_aupay_ponta_expansion",
+    "importance": "A",
+    "summary": [
+      "【事実】KDDIがau PAYとPontaポイントの連携を強化し、生活密着型サービスでの利用促進キャンペーンを展開、ポイント経済圏のユーザー囲い込みを図る。",
+      "【ドコモの狙い/課題】競合が決済・ポイント経済圏の利便性向上とユーザー囲い込みを加速しており、d払い・dポイントも同様に生活者にとっての優位性を明確にし、利用機会を創出する戦略が喫緊の課題。",
+      "【★CAからの提案の切り口】dポイントデータを活用したリテールメディアでのターゲティング広告により、競合優位性のある店舗やサービスでd払い・dポイントの還元率アップキャンペーンを提案。ABEMA連携でターゲット層にリーチし、経済圏内での回遊を促すコンテンツ企画を実施。"
+    ],
+    "date": "2026-10-02 18:04",
+    "id": "upay_ponta_expansion"
+  },
+  {
+    "category": "スマートライフ/決済",
+    "title": "d払いとLINE Pay提携で利用店舗が数百万店に拡大！大規模プロモーションで決済ユーザー囲い込みを。",
+    "url": "https://example.com/d払い_linepay_tieup",
+    "importance": "S",
+    "summary": [
+      "【事実】d払いがLINE Payとシステム連携し、LINE Pay加盟店での利用が可能となることで、d払いの利用可能店舗が数百万店規模に大幅拡大する。",
+      "【ドコモの狙い/課題】決済ネットワークを飛躍的に拡大し、ユーザーの利便性を高めることで、d払い利用促進とdポイント経済圏のさらなる活性化を図る。認知度向上と利用開始キャンペーンが急務。",
+      "【★CAからの提案の切り口】dポイントデータと位置情報を活用したリテールメディア連携で、新規利用可能店舗におけるd払い利用促進キャンペーンを展開。縦型動画広告で提携メリットを分かりやすく訴求し、利用インセンティブを喚起。"
+    ],
+    "date": "2026-10-02 18:04",
+    "id": "%81%84_linepay_tieup"
+  },
+  {
+    "category": "スマートライフ/エンタメ",
+    "title": "Leminoが人気アーティスト独占ライブで若年層獲得を加速！CAはSNS連携プロモーションで支援。",
+    "url": "https://example.com/lemino_exclusive_live",
+    "importance": "S",
+    "summary": [
+      "【事実】Leminoが人気K-POP/J-POPアーティストとの独占契約を締結し、ライブ配信コンテンツを強化、若年層ユーザー獲得を目指す方針。",
+      "【ドコモの狙い/課題】競争激化する動画配信市場で独自の強みを確立し、特に若年層の新規会員獲得と定着率向上を図る。コンテンツの魅力を最大限に引き出すプロモーション戦略が重要。",
+      "【★CAからの提案の切り口】TikTok/YouTube等の縦型動画を活用し、ライブの熱狂と臨場感を切り出しSNSで拡散。ABEMAでの特別番組やアーティスト連動企画を通じて、Leminoへの新規登録を促す広告パッケージを提案。"
+    ],
+    "date": "2026-10-02 18:04",
+    "id": "emino_exclusive_live"
+  },
+  {
+    "category": "法人ソリューション/AI",
+    "title": "ドコモが法人向け生成AIサービスでDX支援を本格化！CAは顧客開拓・ソリューション提案で協業を。",
+    "url": "https://example.com/docomo_gen_ai_biz",
+    "importance": "S",
+    "summary": [
+      "【事実】ドコモが法人向け生成AIを活用したコンサルティング・ソリューション提供を本格化し、企業のDX推進を支援すると発表。",
+      "【ドコモの狙い/課題】通信事業に留まらず、AI技術を武器に法人市場での存在感を高め、新たな収益源を確保する狙い。ソリューションの認知拡大と導入事例創出が課題。",
+      "【★CAからの提案の切り口】ABEMAの広告主ネットワークを活用し、DXに関心の高い企業層へターゲティング広告を展開。事例創出に繋がるWebサイト制作やコンテンツマーケティング、成果報酬型リード獲得施策を提案。"
+    ],
+    "date": "2026-10-02 18:04",
+    "id": "om/docomo_gen_ai_biz"
+  },
+  {
     "category": "ESG・企業ブランディング",
     "title": "GX推進で持続可能な社会へ！ドコモの環境貢献をCAがブランディング支援",
     "url": "N/A",
@@ -3807,96 +3898,5 @@
     ],
     "date": "2026-08-29 06:33",
     "id": "irumo_news_fictional"
-  },
-  {
-    "category": "次世代マーケ・AI活用",
-    "title": "（詳細不明）ニコニコニュースのAI・次世代マーケティング関連動向について",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1vQnNMUHlqWHFsMmo0LU81T1lnUUhuT2dENkxWaXVTaEpqN01rdnUyVlZrbXEwXzA4cmwtYXhPaWNuLWFGNktfbEFSWllmVFJtcnhVUzRsQWpTR2NSanFYbFdRQWtIOHNRcTBRZTVkcUVwN0Z0bDJyVFhZUQ?oc=C",
-    "importance": "C",
-    "summary": [
-      "【事実】「9月3日（木） - ニコニコニュース」という見出しとURLのみで、具体的な記事内容は提供されていません。カテゴリは「次世代マーケ・AI活用」とされています。",
-      "【ドコモの狙い/課題】記事内容が不明のため、直接的なドコモの狙いや課題を特定することは困難です。しかし、もしAIや次世代マーケティングに関する動きであれば、ドコモがスマートライフ事業（Lemino, d払いなど）や顧客データ活用において、最先端技術を取り入れることへの関心や、競合に先んじる必要性があると考えられます。",
-      "【★CAからの提案の切り口】記事内容の詳細が判明し次第、AIを活用したドコモの広告運用最適化や、dポイントデータと連携したパーソナライズ広告の実現、新たなユーザー体験を創出するクリエイティブ開発など、具体的な施策を提案可能です。特に、TikTok/YouTube等の縦型動画におけるAIを活用したABテストや、ABEMA連携での新しい広告配信モデルは、我が社が最も得意とする領域としてドコモを力強くサポートできます。"
-    ],
-    "date": "2026-08-28 14:50",
-    "id": "0bDJyVFhZUQ%3Foc%3DC"
-  },
-  {
-    "category": "次世代マーケ・AI活用",
-    "title": "AIを活用した次世代マーケティング戦略の潮流とドコモへの示唆",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1vQnNLUHlqWHFsMmo0LU81T1lnUUhuT2dENkxWaXVTaEpqN01rdnUyVlZrbXEwXzA4cmwtYXhPaWNuLWFGNktfbEFSWllmVFJtcnhVUzRsQWpTR2NSanFYbFdRQWtIOHNRcTBRZTVkcUVwN0Z0bDJyVFhZUQ?oc=C",
-    "importance": "B",
-    "summary": [
-      "【事実】ニコニコニュースが「次世代マーケ・AI活用」に関する動向を報じた。具体的な記事内容は不明だが、企業がAI技術をマーケティング戦略に導入し、顧客体験向上や効率化を図るトレンドが加速していることを示唆する。",
-      "【ドコモの狙い/課題】ドコモは通信事業に加え、Lemino、d払い、メタバースなどのスマートライフ領域で顧客接点を拡大しており、AIを活用したパーソナライズドマーケティングはLTV最大化の鍵。競合他社との差別化を図りつつ、効果的な顧客獲得・維持のためのAI活用戦略確立が喫緊の課題。",
-      "【★CAからの提案の切り口】ドコモの強みであるdポイントデータとCAが持つ膨大な広告配信データを統合し、AIを活用した高精度なターゲット抽出・レコメンデーションエンジンを共同開発。特にLeminoやd払いユーザー向けに、ABEMA連携によるインタラクティブ広告と、ユーザーインサイトを捉えたTikTok/YouTube等の縦型動画クリエイティブで、体験型・エンゲージメント重視のマーケティング施策を提案。"
-    ],
-    "date": "2026-08-27 22:10",
-    "id": "0bDJyVFhZUQ%3Foc%3DC"
-  },
-  {
-    "category": "次世代マーケ・AI活用",
-    "title": "AI広告運用ツールShirofune、Google CM360連携で効果最大化へ - ドコモの複雑な広告戦略にも適用可能か？",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9WcjN4dzF2M2hRczdJNlhqNjBQTkREZW9fRHpjU3I1a2dtVnpEOW5QQmxBVzYtdWZkTGFVN2p2ZVBzdkM3bDFMYXFxb2lXRzdHbFdHWVBFRzVWQ01SZU4ydDZoV21xaUtRY1E?oc=0",
-    "importance": "A",
-    "summary": [
-      "【事実】広告運用自動化ツール「Shirofune」がGoogleのCampaign Manager 360 (CM360) と連携し、Floodlight計測データをレポートだけでなく広告運用に直接活用できるようになりました。",
-      "【ドコモの狙い/課題】ドコモは多岐にわたるサービス（通信、Lemino、d払い等）を展開し、CM360で横断的な広告効果計測・管理を行っています。煩雑化する広告運用において、CM360データを活用した自動最適化は運用工数削減と広告ROI最大化の両立に向けた喫緊の課題です。",
-      "【★CAからの提案の切り口】弊社CAはShirofuneのようなAI広告運用ツールへの知見も深く、ドコモ様の複雑なCM360 Floodlightデータを活用し、各プロダクトの広告運用を効率的かつ高精度に最適化できます。ABEMA連携やdポイントデータを活かしたリテールメディア施策など、貴社固有のデータとCAの運用ノウハウを組み合わせた、唯一無二の成果最大化プランをご提案可能です。"
-    ],
-    "date": "2026-08-26 21:22",
-    "id": "V21xaUtRY1E%3Foc%3D0"
-  },
-  {
-    "category": "次世代マーケ・AI活用",
-    "title": "ドコモの多様なプロダクト戦略を加速！「Shirofune」とCM360連携が示す運用最適化とCAの勝ち筋",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9WcjN4dzF2M2hRczdJNlhqNjBQTkREZW9fRHpjU3I1a2dtVnpEOW5QQmxBVzYtdWZkTGFVN2p2ZVBzdkM3bDFMYXlxb2lXRzdHbFdHWVBFRzVWQ01SZU4ydDZoV21xaUtRY1E?oc=2",
-    "importance": "A",
-    "summary": [
-      "【事実】広告運用自動化ツール「Shirofune」がGoogleのCampaign Manager 360 (CM360) と連携し、Floodlight計測データをレポートだけでなく、複数媒体を横断した広告運用（入札最適化など）にも直接活用可能になりました。",
-      "【ドコモの狙い/課題】通信、Lemino、d払い、スマートライフなど多岐にわたるドコモの各プロダクトにおいて、広告効果の最大化と運用工数削減は喫緊の課題。この連携は、多様なサービス群全体で統合的な効果測定データ（特にコンバージョン）を運用に活かし、ROAS向上を目指すドコモの動きと合致するものです。",
-      "【★CAからの提案の切り口】我が社なら、この動向を捉え、CM360とdポイントデータを連携させたCA独自のAI分析/運用戦略で、Leminoやd払いといった個別プロダクトだけでなく、ドコモ全体での顧客ジャーニー統合型広告運用を提案できます。特に、dポイントデータを活用したリテールメディア戦略や、ABEMA連携による高精度ターゲティングで、ドコモの運用自動化・最適化に圧倒的な成果で並走可能です。"
-    ],
-    "date": "2026-08-26 12:42",
-    "id": "V21xaUtRY1E%3Foc%3D2"
-  },
-  {
-    "category": "次世代マーケ・AI活用",
-    "title": "ドコモの広告運用高度化へ！ShirofuneとCM360連携でデータ活用最大化を提案",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9WcjN4dzF2M2hRczdJNlhqNjBQTkREZW9fRHpjU3I1a2dtVnpEOW5QQmxBVzYtdWZkTGFVN2p2ZVBzdkM3bDFMYXlxb2lXRzdHbFdHWVBFRzVWQ01SZU4ydDZoV21xaUtRY1E?oc=1",
-    "importance": "A",
-    "summary": [
-      "【事実】広告運用自動化ツール「Shirofune」がGoogleのCampaign Manager 360（CM360）と連携し、Floodlight計測データを広告運用に直接活用可能になりました。",
-      "【ドコモの狙い/課題】ドコモの多様なプロダクト（d払い、Lemino等）のデジタル広告において、CM360で計測した精緻なコンバージョンデータを活用し、広告運用の効率と精度を飛躍的に向上させ、広告投資対効果を最大化したい狙いがあります。",
-      "【★CAからの提案の切り口】我が社なら、この連携機能を活用し、ドコモの広告予算を最も効果的に配分するデータドリブンな運用戦略を提案します。特に、dポイントデータを活用したリテールメディアやABEMA連携を通じた多様な顧客接点において、CM360とShirofuneの連携で得られる深度の高いデータを活かし、パーソナライズされたクリエイティブ（TikTok/YouTube等の縦型動画含む）でドコモのビジネス成長に貢献できます。"
-    ],
-    "date": "2026-08-25 21:19",
-    "id": "V21xaUtRY1E%3Foc%3D1"
-  },
-  {
-    "category": "次世代マーケ・AI活用",
-    "title": "ドコモの広告運用DXを加速：AIツール『Shirofune』×Google CM360連携を活かしたデータ活用戦略",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9WcjN4dzF2M2hRczdJNlhqNjBQTkREZW9fRHpjU3I1a2dtVnpEOW5QQmxBVzYtdWZkTGFVN2p2ZVBzdkM3bDFMYXlxb2lXRzdHbFdHWVBFRzVWQ01SZU4ydDZoV21xaUtRY1E?oc=C",
-    "importance": "A",
-    "summary": [
-      "【事実】広告運用自動化ツール「Shirofune」がGoogleのCampaign Manager 360 (CM360) と連携し、Floodlight計測データを広告運用（入札調整など）に直接活用可能になりました。",
-      "【ドコモの狙い/課題】Lemino、d払い、dポイントなど多岐にわたるドコモのプロダクトは、膨大な広告出稿を抱え、その運用効率化と費用対効果の最大化が喫緊の課題です。CM360と運用ツールの連携は、精緻な効果計測とリアルタイムな運用最適化を実現し、競合他社に先駆けたデータドリブンなマーケティング推進に不可欠となります。",
-      "【★CAからの提案の切り口】我が社なら、CAが有する最先端のAI広告運用ノウハウと、ドコモの膨大なdポイントデータを組み合わせ、このツール連携で得られる効果計測データを最大限に活用。d払い決済データ連携によるリテールメディア施策や、ABEMA連携での動画広告効果測定など、各プロダクトのデジタル広告戦略を高度に自動化・最適化する具体策を提案可能です。"
-    ],
-    "date": "2026-08-25 12:36",
-    "id": "V21xaUtRY1E%3Foc%3DC"
-  },
-  {
-    "category": "次世代マーケ・AI活用",
-    "title": "ドコモの多角化戦略を加速させる広告運用効率化！Google CM360とAIツールShirofune連携でデータドリブン施策を最大化",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9WcjN4dzF2M2hRczdJNlhqNjBQTkREZW9fRHpjU3I1a2dtVnpEOW5QQmxBVzYtdWZkTGFVN2p2ZVBzdkM3bDFMYXlxb2lXRzdHbFdHWVBFRzVWQ01SZU4ydDZoV21xaUtRY1E?oc=oc",
-    "importance": "A",
-    "summary": [
-      "【事実】広告運用自動化ツール「Shirofune」がGoogleの広告管理ツール「Campaign Manager 360（CM360）」と連携し、Floodlight計測データをレポートだけでなく広告運用（入札調整等）に直接活用可能になりました。",
-      "【ドコモの狙い/課題】ドコモ様はd払い、Lemino、スマートライフ等、多岐にわたるプロダクトを展開しており、その広告運用において媒体横断でのデータ活用と効率化、ROAS最大化は喫緊の課題。競合もテクノロジー活用を加速しており、データドリブンな意思決定は必須です。",
-      "【★CAからの提案の切り口】CAの豊富な運用ノウハウとShirofune・CM360連携を組み合わせ、「ドコモ様全プロダクト横断での広告運用効率化コンサル」を提案。dポイントデータ等1st Partyデータとの連携によるパーソナライズ広告や、コンバージョン傾向に基づいたTikTok/YouTube縦型動画、ABEMA連携などCAならではのクリエイティブ戦略で、ドコモ様のマーケティングROIを最大化します。"
-    ],
-    "date": "2026-08-25 07:12",
-    "id": "21xaUtRY1E%3Foc%3Doc"
   }
 ]
