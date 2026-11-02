@@ -1,5 +1,18 @@
 [
   {
+    "category": "次世代マーケ・AI活用",
+    "title": "ドコモの業務効率化・マーケ高度化に直結！最新生成AIソリューション200選カオスマップ",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOR0RBalpBQ1lwLXJkLUh6V09IQzRXeHMtTDN3VmVDc05TWjdSYlFfSmhaQXo3TkU1Z0Z0RlZiTTUxcDhRaF9rS3RENUNKcWkyZlNZQXFazlZFejRhaXJuWmtZaU1mODBFNnNBUGk4N0t0ZkdoblRLQXVpcFhKMFV4X1YwOA?oc=0",
+    "importance": "S",
+    "summary": [
+      "【事実】AIsmileyが、実務の「自律・自動化・専門特化」を促進する200以上の最新生成AIソリューションを集約した「生成AI 業務変革カオスマップ」を公開しました。",
+      "【ドコモの狙い/課題】ドコモは通信事業だけでなくスマートライフ領域（Lemino, d払い, メタバースなど）全体で、業務効率化、コスト削減、顧客体験向上、そして新たなサービス開発のために生成AIの活用を加速させる必要があり、このカオスマップは導入検討の貴重な情報源となります。社内業務からマーケティング・コンテンツ制作まで、AI導入の潜在的ニーズが高いと見込まれます。",
+      "【★CAからの提案の切り口】CAなら、このカオスマップを元にドコモの各事業部（マーケティング、コンテンツ、DMP、事業開発など）の具体的なAI導入ニーズを特定し、特に広告クリエイティブの生成・最適化（TikTok/YouTube等の縦型動画も含む）、dポイントデータ活用によるターゲット分析・施策立案、Leminoのコンテンツ制作支援、あるいは社内業務効率化におけるAIツールの検証・導入支援（ABEMAのAI活用事例連携など）を、AIベンダーとの連携含めて具体的なソリューションとして提案可能です。"
+    ],
+    "date": "2026-11-03 05:54",
+    "id": "KMFV4X1YwOA%3Foc%3D0"
+  },
+  {
     "category": "スマートライフ/AI",
     "title": "ドコモ、生成AIを活用した顧客サポート・パーソナライズ化で顧客体験向上へ",
     "url": "https://example.com/docomo_ai_customer_service",
@@ -3885,18 +3898,5 @@
     ],
     "date": "2026-10-06 10:57",
     "id": "/mynapoint_info.html"
-  },
-  {
-    "category": "通信料金・顧客獲得",
-    "title": "ドコモ、新『eximo』『irumo』発表で料金体系刷新！顧客基盤強化の戦略",
-    "url": "https://k-tai.watch.impress.co.jp/docs/news/1505999.html",
-    "importance": "S",
-    "summary": [
-      "【事実】ドコモが新料金プラン『eximo（エクシモ）』と『irumo（イルモ）』を発表し、従来のギガホ・ギガライトを刷新した。",
-      "【ドコモの狙い/課題】多様な顧客ニーズに対応し、若年層からライトユーザーまで幅広い層の顧客獲得とARPU向上を目指す。既存ユーザーの流出防止と新規獲得が最重要課題。",
-      "【★CAからの提案の切り口】新プランの認知拡大・理解促進のため、ターゲット層別のデジタル広告戦略を提案。特に若年層向けの『irumo』ではTikTok/YouTube等の縦型動画クリエイティブでUGC創出を促し、WebCMやABEMAなどの動画広告で『eximo』のヘビーユーザー向けメリットを訴求。dポイントデータを活用した既存顧客へのアップセル/クロスセル施策も構築します。"
-    ],
-    "date": "2026-10-06 10:57",
-    "id": "cs/news/1505999.html"
   }
 ]
