@@ -1,6 +1,19 @@
 [
   {
     "category": "次世代マーケ・AI活用",
+    "title": "ドコモの業務効率化・マーケティング高度化を加速する生成AI活用動向",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOR0RBalpBQ1lwLXJkLUh6V09IQzRXeHMtTDN3VmVDc05TWjdSYlFfSmhaQXo3TkU1Z0Z0RlZiTTUxcDhRaF9rS3RENUNKcWkyZlNZQXFac2ZFejRhaXJuWmtZaU1mODBFNnNBUGk4N0t0ZkdoblRLQXVpcFhKMFV4X1YwOA?oc=0",
+    "importance": "S",
+    "summary": [
+      "【事実】AIsmileyが200製品以上の生成AIソリューションを集約した「生成AI 業務変革カオスマップ」を公開し、実務の「自律・自動化・専門特化」による変革可能性が示唆されました。",
+      "【ドコモの狙い/課題】ドコモはスマートライフ事業拡大のため、社内DXによる業務効率化、顧客体験の向上、及びLeminoやd払いなどの各プロダクトにおけるマーケティング高度化が急務です。生成AI活用は、これらを実現する強力なドライバーとなり、競合に先んじるための差別化要因にもなります。",
+      "【★CAからの提案の切り口】我が社は生成AIを活用した広告クリエイティブの自動生成・高速ABテスト、dポイントデータを活かしたパーソナライズされたリテールメディア広告展開、ABEMA連携によるAI活用広告配信、更には社内マーケティング業務効率化（市場分析、競合予測）まで、ドコモのDXと事業成長を多角的に支援します。特に、縦型動画クリエイティブの生成AIによる量産・最適化で、Leminoやd払いのユーザーエンゲージメントを最大化する提案が可能です。"
+    ],
+    "date": "2026-11-03 12:06",
+    "id": "KMFV4X1YwOA%3Foc%3D0"
+  },
+  {
+    "category": "次世代マーケ・AI活用",
     "title": "ドコモの業務効率化・マーケ高度化に直結！最新生成AIソリューション200選カオスマップ",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOR0RBalpBQ1lwLXJkLUh6V09IQzRXeHMtTDN3VmVDc05TWjdSYlFfSmhaQXo3TkU1Z0Z0RlZiTTUxcDhRaF9rS3RENUNKcWkyZlNZQXFazlZFejRhaXJuWmtZaU1mODBFNnNBUGk4N0t0ZkdoblRLQXVpcFhKMFV4X1YwOA?oc=0",
     "importance": "S",
@@ -3885,18 +3898,5 @@
     ],
     "date": "2026-10-06 10:57",
     "id": "00109.000078736.html"
-  },
-  {
-    "category": "決済サービス（d払い）",
-    "title": "d払い、マイナポイント連携強化で利用促進！地域経済活性化への寄与とデータ活用戦略",
-    "url": "https://www.dpoint.jp/ctrw/web/use/mynapoint_info.html",
-    "importance": "A",
-    "summary": [
-      "【事実】d払いがマイナポイント事業のキャッシュレス決済サービスとして継続されており、新規獲得・利用促進の大きなフックとなっている。",
-      "【ドコモの狙い/課題】決済アプリ市場でのシェア拡大と、dポイント経済圏のさらなる活性化を目指す。マイナポイントをきっかけとした新規ユーザーの獲得と、継続的な利用習慣の定着が重要。",
-      "【★CAからの提案の切り口】マイナポイントの獲得時期に合わせた大規模なデジタル広告キャンペーンを展開。dポイントデータと連携したリテールメディア広告により、加盟店での利用を促進。特に若年層・ファミリー層向けに、TikTokやYouTubeで「d払いでポイントがお得になる使い方」を分かりやすく訴求する縦型動画広告を企画・制作し、エンゲージメントの高いUGCを創出します。"
-    ],
-    "date": "2026-10-06 10:57",
-    "id": "/mynapoint_info.html"
   }
 ]
